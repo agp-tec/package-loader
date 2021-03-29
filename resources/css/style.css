@@ -1,0 +1,38 @@
+.bs-reset {
+    /* position: absolute; */
+    /* height: 100%; */
+    /* width: 100%; */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-rows: 100vh;
+}
+
+.login-bg, .login-container{
+    height: 100%;
+    width: 100%;
+    padding: 14%;
+}
+
+.login-bg {
+    /*background: #E0E0E0;*/
+    background: url('../img/Tela login sistema - AGP.svg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: -.125rem 0 .25rem rgba(0,0,0,.075)!important;
+}
+
+.logo-login {
+    width: 75%;
+    max-width: 400px;
+}

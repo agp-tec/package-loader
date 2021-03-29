@@ -1,0 +1,2311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="150.405mm" height="210.567mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 12542 17559"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#0F628C;stroke-width:21.1719;stroke-opacity:0.301961}
+    .str2 {stroke:#0F628C;stroke-width:21.1719}
+    .str1 {stroke:#0F628C;stroke-width:21.1719}
+    .fil4 {fill:none}
+    .fil2 {fill:none;fill-rule:nonzero}
+    .fil3 {fill:#0F628C;fill-rule:nonzero}
+    .fil1 {fill:#0F628C;fill-rule:nonzero;fill-opacity:0.301961}
+    .fil0 {fill:url(#id298)}
+   ]]>
+  </style>
+      <mask id="id0">
+  <radialGradient id="id1" gradientUnits="userSpaceOnUse" cx="13.3836" cy="3292.52" r="0" fx="13.3836" fy="3292.52">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id1)" x="3" y="3282" width="75.2399" height="106.068"/>
+      </mask>
+      <mask id="id2">
+  <radialGradient id="id3" gradientUnits="userSpaceOnUse" cx="951.093" cy="4940.6" r="0" fx="951.093" fy="4940.6">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id3)" x="941" y="4930" width="111" height="106"/>
+      </mask>
+      <mask id="id4">
+  <radialGradient id="id5" gradientUnits="userSpaceOnUse" cx="2501.45" cy="2849.22" r="0" fx="2501.45" fy="2849.22">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id5)" x="2491" y="2839" width="111" height="106"/>
+      </mask>
+      <mask id="id6">
+  <radialGradient id="id7" gradientUnits="userSpaceOnUse" cx="261.326" cy="2183.72" r="0" fx="261.326" fy="2183.72">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id7)" x="251" y="2173" width="111" height="106"/>
+      </mask>
+      <mask id="id8">
+  <radialGradient id="id9" gradientUnits="userSpaceOnUse" cx="951.877" cy="1496.14" r="0" fx="951.877" fy="1496.14">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id9)" x="941" y="1486" width="111" height="106"/>
+      </mask>
+      <mask id="id10">
+  <radialGradient id="id11" gradientUnits="userSpaceOnUse" cx="475.188" cy="910.167" r="0" fx="475.188" fy="910.167">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id11)" x="465" y="900" width="111" height="106"/>
+      </mask>
+      <mask id="id12">
+  <radialGradient id="id13" gradientUnits="userSpaceOnUse" cx="128.858" cy="412.84" r="0" fx="128.858" fy="412.84">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id13)" x="118" y="402" width="111" height="106"/>
+      </mask>
+      <mask id="id14">
+  <radialGradient id="id15" gradientUnits="userSpaceOnUse" cx="541.747" cy="3326" r="0" fx="541.747" fy="3326">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id15)" x="531" y="3315" width="111" height="106"/>
+      </mask>
+      <mask id="id16">
+  <radialGradient id="id17" gradientUnits="userSpaceOnUse" cx="125.33" cy="4857.79" r="0" fx="125.33" fy="4857.79">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id17)" x="115" y="4847" width="111" height="106"/>
+      </mask>
+      <mask id="id18">
+  <radialGradient id="id19" gradientUnits="userSpaceOnUse" cx="518.016" cy="497.869" r="0" fx="518.016" fy="497.869">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id19)" x="507" y="487" width="111" height="106"/>
+      </mask>
+      <mask id="id20">
+  <radialGradient id="id21" gradientUnits="userSpaceOnUse" cx="1123.95" cy="2565.85" r="0" fx="1123.95" fy="2565.85">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id21)" x="1113" y="2555" width="111" height="106"/>
+      </mask>
+      <mask id="id22">
+  <radialGradient id="id23" gradientUnits="userSpaceOnUse" cx="1834.12" cy="5273.8" r="0" fx="1834.12" fy="5273.8">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id23)" x="1824" y="5263" width="111" height="106"/>
+      </mask>
+      <mask id="id24">
+  <radialGradient id="id25" gradientUnits="userSpaceOnUse" cx="2952.71" cy="5699.02" r="0" fx="2952.71" fy="5699.02">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id25)" x="2942" y="5688" width="111" height="106"/>
+      </mask>
+      <mask id="id26">
+  <radialGradient id="id27" gradientUnits="userSpaceOnUse" cx="1695.32" cy="606.681" r="0" fx="1695.32" fy="606.681">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id27)" x="1685" y="596" width="111" height="106"/>
+      </mask>
+      <mask id="id28">
+  <radialGradient id="id29" gradientUnits="userSpaceOnUse" cx="2844.41" cy="548.952" r="0" fx="2844.41" fy="548.952">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id29)" x="2834" y="538" width="111" height="106"/>
+      </mask>
+      <mask id="id30">
+  <radialGradient id="id31" gradientUnits="userSpaceOnUse" cx="2682.4" cy="34.6305" r="0" fx="2682.4" fy="34.6305">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id31)" x="2672" y="24" width="111" height="106"/>
+      </mask>
+      <mask id="id32">
+  <radialGradient id="id33" gradientUnits="userSpaceOnUse" cx="803.774" cy="447.604" r="0" fx="803.774" fy="447.604">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id33)" x="793" y="437" width="111" height="106"/>
+      </mask>
+      <mask id="id34">
+  <radialGradient id="id35" gradientUnits="userSpaceOnUse" cx="455.892" cy="3217.72" r="0" fx="455.892" fy="3217.72">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id35)" x="445" y="3207" width="111" height="106"/>
+      </mask>
+      <mask id="id36">
+  <radialGradient id="id37" gradientUnits="userSpaceOnUse" cx="465.89" cy="5152.21" r="0" fx="465.89" fy="5152.21">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id37)" x="455" y="5142" width="111" height="106"/>
+      </mask>
+      <mask id="id38">
+  <radialGradient id="id39" gradientUnits="userSpaceOnUse" cx="204.373" cy="5731.72" r="0" fx="204.373" fy="5731.72">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id39)" x="194" y="5721" width="111" height="106"/>
+      </mask>
+      <mask id="id40">
+  <radialGradient id="id41" gradientUnits="userSpaceOnUse" cx="1818.86" cy="4419.97" r="0" fx="1818.86" fy="4419.97">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id41)" x="1808" y="4409" width="111" height="106"/>
+      </mask>
+      <mask id="id42">
+  <radialGradient id="id43" gradientUnits="userSpaceOnUse" cx="1236.2" cy="5258.08" r="0" fx="1236.2" fy="5258.08">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id43)" x="1226" y="5247" width="111" height="106"/>
+      </mask>
+      <mask id="id44">
+  <radialGradient id="id45" gradientUnits="userSpaceOnUse" cx="165.006" cy="2653.33" r="0" fx="165.006" fy="2653.33">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id45)" x="154" y="2643" width="111" height="106"/>
+      </mask>
+      <mask id="id46">
+  <radialGradient id="id47" gradientUnits="userSpaceOnUse" cx="64.6498" cy="865.864" r="0" fx="64.6498" fy="865.864">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id47)" x="54" y="855" width="111" height="106"/>
+      </mask>
+      <mask id="id48">
+  <radialGradient id="id49" gradientUnits="userSpaceOnUse" cx="3347.78" cy="2674.64" r="0" fx="3347.78" fy="2674.64">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id49)" x="3337" y="2664" width="111" height="106"/>
+      </mask>
+      <mask id="id50">
+  <radialGradient id="id51" gradientUnits="userSpaceOnUse" cx="1710.57" cy="2741.09" r="0" fx="1710.57" fy="2741.09">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id51)" x="1700" y="2731" width="111" height="106"/>
+      </mask>
+      <mask id="id52">
+  <radialGradient id="id53" gradientUnits="userSpaceOnUse" cx="3277.82" cy="1606.85" r="0" fx="3277.82" fy="1606.85">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id53)" x="3267" y="1596" width="111" height="106"/>
+      </mask>
+      <mask id="id54">
+  <radialGradient id="id55" gradientUnits="userSpaceOnUse" cx="3816.81" cy="3786.52" r="0" fx="3816.81" fy="3786.52">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id55)" x="3806" y="3776" width="111" height="106"/>
+      </mask>
+      <mask id="id56">
+  <radialGradient id="id57" gradientUnits="userSpaceOnUse" cx="4073.59" cy="4698.46" r="0" fx="4073.59" fy="4698.46">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id57)" x="4063" y="4688" width="111" height="106"/>
+      </mask>
+      <mask id="id58">
+  <radialGradient id="id59" gradientUnits="userSpaceOnUse" cx="3328.06" cy="4838.23" r="0" fx="3328.06" fy="4838.23">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id59)" x="3317" y="4828" width="111" height="106"/>
+      </mask>
+      <mask id="id60">
+  <radialGradient id="id61" gradientUnits="userSpaceOnUse" cx="4041.89" cy="5533.54" r="0" fx="4041.89" fy="5533.54">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id61)" x="4031" y="5523" width="111" height="106"/>
+      </mask>
+      <mask id="id62">
+  <radialGradient id="id63" gradientUnits="userSpaceOnUse" cx="4153.04" cy="88.2233" r="0" fx="4153.04" fy="88.2233">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id63)" x="4142" y="78" width="111" height="106"/>
+      </mask>
+      <mask id="id64">
+  <radialGradient id="id65" gradientUnits="userSpaceOnUse" cx="3553.73" cy="247.834" r="0" fx="3553.73" fy="247.834">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id65)" x="3543" y="237" width="111" height="106"/>
+      </mask>
+      <mask id="id66">
+  <radialGradient id="id67" gradientUnits="userSpaceOnUse" cx="4475.99" cy="998.224" r="0" fx="4475.99" fy="998.224">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id67)" x="4465" y="988" width="111" height="106"/>
+      </mask>
+      <mask id="id68">
+  <radialGradient id="id69" gradientUnits="userSpaceOnUse" cx="5139.7" cy="4609.01" r="0" fx="5139.7" fy="4609.01">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id69)" x="5129" y="4598" width="111" height="106"/>
+      </mask>
+      <mask id="id70">
+  <radialGradient id="id71" gradientUnits="userSpaceOnUse" cx="13.3836" cy="4477.72" r="0" fx="13.3836" fy="4477.72">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id71)" x="3" y="4467" width="26.9756" height="84.8961"/>
+      </mask>
+      <mask id="id72">
+  <radialGradient id="id73" gradientUnits="userSpaceOnUse" cx="806.851" cy="4900.69" r="0" fx="806.851" fy="4900.69">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id73)" x="796" y="4890" width="158" height="151"/>
+      </mask>
+      <mask id="id74">
+  <radialGradient id="id75" gradientUnits="userSpaceOnUse" cx="412.106" cy="4419.91" r="0" fx="412.106" fy="4419.91">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id75)" x="402" y="4409" width="241" height="230"/>
+      </mask>
+      <mask id="id76">
+  <radialGradient id="id77" gradientUnits="userSpaceOnUse" cx="191.423" cy="1975.5" r="0" fx="191.423" fy="1975.5">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id77)" x="181" y="1965" width="117" height="112"/>
+      </mask>
+      <mask id="id78">
+  <radialGradient id="id79" gradientUnits="userSpaceOnUse" cx="73.1553" cy="401.966" r="0" fx="73.1553" fy="401.966">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id79)" x="63" y="391" width="115" height="110"/>
+      </mask>
+      <mask id="id80">
+  <radialGradient id="id81" gradientUnits="userSpaceOnUse" cx="13.3836" cy="5205.01" r="0" fx="13.3836" fy="5205.01">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id81)" x="3" y="5194" width="92.968" height="138.706"/>
+      </mask>
+      <mask id="id82">
+  <radialGradient id="id83" gradientUnits="userSpaceOnUse" cx="38.1245" cy="5568.84" r="0" fx="38.1245" fy="5568.84">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id83)" x="28" y="5558" width="116" height="111"/>
+      </mask>
+      <mask id="id84">
+  <radialGradient id="id85" gradientUnits="userSpaceOnUse" cx="801.422" cy="5696.39" r="0" fx="801.422" fy="5696.39">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id85)" x="791" y="5686" width="111" height="106"/>
+      </mask>
+      <mask id="id86">
+  <radialGradient id="id87" gradientUnits="userSpaceOnUse" cx="594.131" cy="5060.06" r="0" fx="594.131" fy="5060.06">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id87)" x="584" y="5049" width="157" height="150"/>
+      </mask>
+      <mask id="id88">
+  <radialGradient id="id89" gradientUnits="userSpaceOnUse" cx="1231.92" cy="4283.08" r="0" fx="1231.92" fy="4283.08">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id89)" x="1221" y="4272" width="138" height="132"/>
+      </mask>
+      <mask id="id90">
+  <radialGradient id="id91" gradientUnits="userSpaceOnUse" cx="1477.79" cy="4074.14" r="0" fx="1477.79" fy="4074.14">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id91)" x="1467" y="4064" width="118" height="113"/>
+      </mask>
+      <mask id="id92">
+  <radialGradient id="id93" gradientUnits="userSpaceOnUse" cx="535.644" cy="3847.7" r="0" fx="535.644" fy="3847.7">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id93)" x="525" y="3837" width="184" height="175"/>
+      </mask>
+      <mask id="id94">
+  <radialGradient id="id95" gradientUnits="userSpaceOnUse" cx="232.766" cy="1610.68" r="0" fx="232.766" fy="1610.68">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id95)" x="222" y="1600" width="120" height="115"/>
+      </mask>
+      <mask id="id96">
+  <radialGradient id="id97" gradientUnits="userSpaceOnUse" cx="765.374" cy="1349.83" r="0" fx="765.374" fy="1349.83">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id97)" x="755" y="1339" width="143" height="137"/>
+      </mask>
+      <mask id="id98">
+  <radialGradient id="id99" gradientUnits="userSpaceOnUse" cx="682.363" cy="833.726" r="0" fx="682.363" fy="833.726">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id99)" x="672" y="823" width="150" height="143"/>
+      </mask>
+      <mask id="id100">
+  <radialGradient id="id101" gradientUnits="userSpaceOnUse" cx="723.489" cy="456.209" r="0" fx="723.489" fy="456.209">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id101)" x="713" y="446" width="142" height="136"/>
+      </mask>
+      <mask id="id102">
+  <radialGradient id="id103" gradientUnits="userSpaceOnUse" cx="209.743" cy="185.519" r="0" fx="209.743" fy="185.519">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id103)" x="199" y="175" width="115" height="111"/>
+      </mask>
+      <mask id="id104">
+  <radialGradient id="id105" gradientUnits="userSpaceOnUse" cx="1143.66" cy="3058.8" r="0" fx="1143.66" fy="3058.8">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id105)" x="1133" y="3048" width="114" height="109"/>
+      </mask>
+      <mask id="id106">
+  <radialGradient id="id107" gradientUnits="userSpaceOnUse" cx="1101.5" cy="2496.21" r="0" fx="1101.5" fy="2496.21">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id107)" x="1091" y="2486" width="113" height="108"/>
+      </mask>
+      <mask id="id108">
+  <radialGradient id="id109" gradientUnits="userSpaceOnUse" cx="2133.64" cy="4050.53" r="0" fx="2133.64" fy="4050.53">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id109)" x="2123" y="4040" width="124" height="119"/>
+      </mask>
+      <mask id="id110">
+  <radialGradient id="id111" gradientUnits="userSpaceOnUse" cx="2256.18" cy="5531.86" r="0" fx="2256.18" fy="5531.86">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id111)" x="2246" y="5521" width="111" height="106"/>
+      </mask>
+      <mask id="id112">
+  <radialGradient id="id113" gradientUnits="userSpaceOnUse" cx="1542.36" cy="1152.73" r="0" fx="1542.36" fy="1152.73">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id113)" x="1532" y="1142" width="164" height="157"/>
+      </mask>
+      <mask id="id114">
+  <radialGradient id="id115" gradientUnits="userSpaceOnUse" cx="2393.91" cy="531.257" r="0" fx="2393.91" fy="531.257">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id115)" x="2383" y="521" width="134" height="129"/>
+      </mask>
+      <mask id="id116">
+  <radialGradient id="id117" gradientUnits="userSpaceOnUse" cx="2620.97" cy="103.341" r="0" fx="2620.97" fy="103.341">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id117)" x="2610" y="93" width="119" height="114"/>
+      </mask>
+      <mask id="id118">
+  <radialGradient id="id119" gradientUnits="userSpaceOnUse" cx="3424.62" cy="2996.9" r="0" fx="3424.62" fy="2996.9">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id119)" x="3414" y="2986" width="111" height="106"/>
+      </mask>
+      <mask id="id120">
+  <radialGradient id="id121" gradientUnits="userSpaceOnUse" cx="3877.06" cy="4464.79" r="0" fx="3877.06" fy="4464.79">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id121)" x="3866" y="4454" width="111" height="106"/>
+      </mask>
+      <mask id="id122">
+  <radialGradient id="id123" gradientUnits="userSpaceOnUse" cx="3372.05" cy="5456.31" r="0" fx="3372.05" fy="5456.31">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id123)" x="3361" y="5446" width="111" height="106"/>
+      </mask>
+      <mask id="id124">
+  <radialGradient id="id125" gradientUnits="userSpaceOnUse" cx="4298.05" cy="159.394" r="0" fx="4298.05" fy="159.394">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id125)" x="4287" y="149" width="111" height="106"/>
+      </mask>
+      <mask id="id126">
+  <radialGradient id="id127" gradientUnits="userSpaceOnUse" cx="4313.94" cy="2986.82" r="0" fx="4313.94" fy="2986.82">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id127)" x="4303" y="2976" width="111" height="106"/>
+      </mask>
+      <mask id="id128">
+  <radialGradient id="id129" gradientUnits="userSpaceOnUse" cx="1458" cy="8531.59" r="0" fx="1458" fy="8531.59">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id129)" x="1447" y="8521" width="111" height="106"/>
+      </mask>
+      <mask id="id130">
+  <radialGradient id="id131" gradientUnits="userSpaceOnUse" cx="80.5016" cy="8248.22" r="0" fx="80.5016" fy="8248.22">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id131)" x="70" y="8238" width="111" height="106"/>
+      </mask>
+      <mask id="id132">
+  <radialGradient id="id133" gradientUnits="userSpaceOnUse" cx="790.649" cy="10956.2" r="0" fx="790.649" fy="10956.2">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id133)" x="780" y="10946" width="111" height="106"/>
+      </mask>
+      <mask id="id134">
+  <radialGradient id="id135" gradientUnits="userSpaceOnUse" cx="1909.25" cy="11381.4" r="0" fx="1909.25" fy="11381.4">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id135)" x="1899" y="11371" width="111" height="106"/>
+      </mask>
+      <mask id="id136">
+  <radialGradient id="id137" gradientUnits="userSpaceOnUse" cx="651.86" cy="6289.05" r="0" fx="651.86" fy="6289.05">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id137)" x="641" y="6278" width="111" height="106"/>
+      </mask>
+      <mask id="id138">
+  <radialGradient id="id139" gradientUnits="userSpaceOnUse" cx="1800.94" cy="6231.32" r="0" fx="1800.94" fy="6231.32">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id139)" x="1790" y="6221" width="111" height="106"/>
+      </mask>
+      <mask id="id140">
+  <radialGradient id="id141" gradientUnits="userSpaceOnUse" cx="1638.94" cy="5716.99" r="0" fx="1638.94" fy="5716.99">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id141)" x="1628" y="5706" width="111" height="106"/>
+      </mask>
+      <mask id="id142">
+  <radialGradient id="id143" gradientUnits="userSpaceOnUse" cx="775.389" cy="10102.3" r="0" fx="775.389" fy="10102.3">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id143)" x="765" y="10092" width="111" height="106"/>
+      </mask>
+      <mask id="id144">
+  <radialGradient id="id145" gradientUnits="userSpaceOnUse" cx="192.749" cy="10940.4" r="0" fx="192.749" fy="10940.4">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id145)" x="182" y="10930" width="111" height="106"/>
+      </mask>
+      <mask id="id146">
+  <radialGradient id="id147" gradientUnits="userSpaceOnUse" cx="2304.34" cy="8357" r="0" fx="2304.34" fy="8357">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id147)" x="2294" y="8346" width="111" height="106"/>
+      </mask>
+      <mask id="id148">
+  <radialGradient id="id149" gradientUnits="userSpaceOnUse" cx="667.111" cy="8423.46" r="0" fx="667.111" fy="8423.46">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id149)" x="657" y="8413" width="111" height="106"/>
+      </mask>
+      <mask id="id150">
+  <radialGradient id="id151" gradientUnits="userSpaceOnUse" cx="2234.37" cy="7289.21" r="0" fx="2234.37" fy="7289.21">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id151)" x="2224" y="7279" width="111" height="106"/>
+      </mask>
+      <mask id="id152">
+  <radialGradient id="id153" gradientUnits="userSpaceOnUse" cx="2773.35" cy="9468.88" r="0" fx="2773.35" fy="9468.88">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id153)" x="2763" y="9458" width="111" height="106"/>
+      </mask>
+      <mask id="id154">
+  <radialGradient id="id155" gradientUnits="userSpaceOnUse" cx="3030.14" cy="10380.8" r="0" fx="3030.14" fy="10380.8">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id155)" x="3020" y="10370" width="111" height="106"/>
+      </mask>
+      <mask id="id156">
+  <radialGradient id="id157" gradientUnits="userSpaceOnUse" cx="2284.6" cy="10520.6" r="0" fx="2284.6" fy="10520.6">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id157)" x="2274" y="10510" width="111" height="106"/>
+      </mask>
+      <mask id="id158">
+  <radialGradient id="id159" gradientUnits="userSpaceOnUse" cx="2998.44" cy="11215.9" r="0" fx="2998.44" fy="11215.9">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id159)" x="2988" y="11205" width="111" height="106"/>
+      </mask>
+      <mask id="id160">
+  <radialGradient id="id161" gradientUnits="userSpaceOnUse" cx="3109.56" cy="5770.58" r="0" fx="3109.56" fy="5770.58">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id161)" x="3099" y="5760" width="111" height="106"/>
+      </mask>
+      <mask id="id162">
+  <radialGradient id="id163" gradientUnits="userSpaceOnUse" cx="2510.28" cy="5930.2" r="0" fx="2510.28" fy="5930.2">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id163)" x="2500" y="5920" width="111" height="106"/>
+      </mask>
+      <mask id="id164">
+  <radialGradient id="id165" gradientUnits="userSpaceOnUse" cx="3432.54" cy="6680.58" r="0" fx="3432.54" fy="6680.58">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id165)" x="3422" y="6670" width="111" height="106"/>
+      </mask>
+      <mask id="id166">
+  <radialGradient id="id167" gradientUnits="userSpaceOnUse" cx="4096.24" cy="10291.4" r="0" fx="4096.24" fy="10291.4">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id167)" x="4086" y="10281" width="111" height="106"/>
+      </mask>
+      <mask id="id168">
+  <radialGradient id="id169" gradientUnits="userSpaceOnUse" cx="188.463" cy="9965.45" r="0" fx="188.463" fy="9965.45">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id169)" x="178" y="9955" width="138" height="132"/>
+      </mask>
+      <mask id="id170">
+  <radialGradient id="id171" gradientUnits="userSpaceOnUse" cx="434.354" cy="9756.51" r="0" fx="434.354" fy="9756.51">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id171)" x="424" y="9746" width="118" height="113"/>
+      </mask>
+      <mask id="id172">
+  <radialGradient id="id173" gradientUnits="userSpaceOnUse" cx="100.198" cy="8741.15" r="0" fx="100.198" fy="8741.15">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id173)" x="90" y="8731" width="114" height="109"/>
+      </mask>
+      <mask id="id174">
+  <radialGradient id="id175" gradientUnits="userSpaceOnUse" cx="58.0456" cy="8178.57" r="0" fx="58.0456" fy="8178.57">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id175)" x="47" y="8168" width="113" height="108"/>
+      </mask>
+      <mask id="id176">
+  <radialGradient id="id177" gradientUnits="userSpaceOnUse" cx="1090.17" cy="9732.89" r="0" fx="1090.17" fy="9732.89">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id177)" x="1080" y="9722" width="124" height="119"/>
+      </mask>
+      <mask id="id178">
+  <radialGradient id="id179" gradientUnits="userSpaceOnUse" cx="1212.73" cy="11214.2" r="0" fx="1212.73" fy="11214.2">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id179)" x="1202" y="11204" width="111" height="106"/>
+      </mask>
+      <mask id="id180">
+  <radialGradient id="id181" gradientUnits="userSpaceOnUse" cx="498.895" cy="6835.09" r="0" fx="498.895" fy="6835.09">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id181)" x="488" y="6825" width="164" height="157"/>
+      </mask>
+      <mask id="id182">
+  <radialGradient id="id183" gradientUnits="userSpaceOnUse" cx="1350.45" cy="6213.64" r="0" fx="1350.45" fy="6213.64">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id183)" x="1340" y="6203" width="134" height="129"/>
+      </mask>
+      <mask id="id184">
+  <radialGradient id="id185" gradientUnits="userSpaceOnUse" cx="1577.51" cy="5785.71" r="0" fx="1577.51" fy="5785.71">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id185)" x="1567" y="5775" width="119" height="114"/>
+      </mask>
+      <mask id="id186">
+  <radialGradient id="id187" gradientUnits="userSpaceOnUse" cx="2381.16" cy="8679.26" r="0" fx="2381.16" fy="8679.26">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id187)" x="2371" y="8669" width="111" height="106"/>
+      </mask>
+      <mask id="id188">
+  <radialGradient id="id189" gradientUnits="userSpaceOnUse" cx="2833.62" cy="10147.2" r="0" fx="2833.62" fy="10147.2">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id189)" x="2823" y="10137" width="111" height="106"/>
+      </mask>
+      <mask id="id190">
+  <radialGradient id="id191" gradientUnits="userSpaceOnUse" cx="2328.61" cy="11138.7" r="0" fx="2328.61" fy="11138.7">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id191)" x="2318" y="11128" width="111" height="106"/>
+      </mask>
+      <mask id="id192">
+  <radialGradient id="id193" gradientUnits="userSpaceOnUse" cx="3254.59" cy="5841.76" r="0" fx="3254.59" fy="5841.76">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id193)" x="3244" y="5831" width="111" height="106"/>
+      </mask>
+      <mask id="id194">
+  <radialGradient id="id195" gradientUnits="userSpaceOnUse" cx="3270.48" cy="8669.18" r="0" fx="3270.48" fy="8669.18">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id195)" x="3260" y="8659" width="111" height="106"/>
+      </mask>
+     <mask id="id196">
+  <radialGradient id="id197" gradientUnits="userSpaceOnUse" cx="598.659" cy="12285.1" r="0" fx="598.659" fy="12285.1">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id197)" x="588" y="12275" width="119" height="109"/>
+     </mask>
+     <mask id="id198">
+  <radialGradient id="id199" gradientUnits="userSpaceOnUse" cx="2291.6" cy="14443.7" r="0" fx="2291.6" fy="14443.7">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id199)" x="2281" y="14433" width="119" height="109"/>
+     </mask>
+     <mask id="id200">
+  <radialGradient id="id201" gradientUnits="userSpaceOnUse" cx="599.518" cy="15840.2" r="0" fx="599.518" fy="15840.2">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id201)" x="589" y="15830" width="119" height="109"/>
+     </mask>
+     <mask id="id202">
+  <radialGradient id="id203" gradientUnits="userSpaceOnUse" cx="78.9923" cy="16445" r="0" fx="78.9923" fy="16445">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id203)" x="68" y="16434" width="119" height="109"/>
+     </mask>
+     <mask id="id204">
+  <radialGradient id="id205" gradientUnits="userSpaceOnUse" cx="151.664" cy="13951.6" r="0" fx="151.664" fy="13951.6">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id205)" x="141" y="13941" width="119" height="109"/>
+     </mask>
+     <mask id="id206">
+  <radialGradient id="id207" gradientUnits="userSpaceOnUse" cx="125.739" cy="16870.5" r="0" fx="125.739" fy="16870.5">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id207)" x="115" y="16860" width="119" height="109"/>
+     </mask>
+     <mask id="id208">
+  <radialGradient id="id209" gradientUnits="userSpaceOnUse" cx="787.422" cy="14736.1" r="0" fx="787.422" fy="14736.1">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id209)" x="777" y="14726" width="119" height="109"/>
+     </mask>
+     <mask id="id210">
+  <radialGradient id="id211" gradientUnits="userSpaceOnUse" cx="1562.89" cy="11941.3" r="0" fx="1562.89" fy="11941.3">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id211)" x="1552" y="11931" width="119" height="109"/>
+     </mask>
+     <mask id="id212">
+  <radialGradient id="id213" gradientUnits="userSpaceOnUse" cx="2784.35" cy="11502.4" r="0" fx="2784.35" fy="11502.4">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id213)" x="2774" y="11492" width="119" height="109"/>
+     </mask>
+     <mask id="id214">
+  <radialGradient id="id215" gradientUnits="userSpaceOnUse" cx="1411.32" cy="16758.2" r="0" fx="1411.32" fy="16758.2">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id215)" x="1401" y="16748" width="119" height="109"/>
+     </mask>
+     <mask id="id216">
+  <radialGradient id="id217" gradientUnits="userSpaceOnUse" cx="2666.08" cy="16817.8" r="0" fx="2666.08" fy="16817.8">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id217)" x="2656" y="16807" width="119" height="109"/>
+     </mask>
+     <mask id="id218">
+  <radialGradient id="id219" gradientUnits="userSpaceOnUse" cx="2489.2" cy="17348.6" r="0" fx="2489.2" fy="17348.6">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id219)" x="2479" y="17338" width="119" height="109"/>
+     </mask>
+     <mask id="id220">
+  <radialGradient id="id221" gradientUnits="userSpaceOnUse" cx="437.781" cy="16922.4" r="0" fx="437.781" fy="16922.4">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id221)" x="427" y="16912" width="119" height="109"/>
+     </mask>
+     <mask id="id222">
+  <radialGradient id="id223" gradientUnits="userSpaceOnUse" cx="57.9205" cy="14063.3" r="0" fx="57.9205" fy="14063.3">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id223)" x="47" y="14053" width="119" height="109"/>
+     </mask>
+     <mask id="id224">
+  <radialGradient id="id225" gradientUnits="userSpaceOnUse" cx="68.8275" cy="12066.8" r="0" fx="68.8275" fy="12066.8">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id225)" x="58" y="12056" width="119" height="109"/>
+     </mask>
+     <mask id="id226">
+  <radialGradient id="id227" gradientUnits="userSpaceOnUse" cx="1546.23" cy="12822.5" r="0" fx="1546.23" fy="12822.5">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id227)" x="1536" y="12812" width="119" height="109"/>
+     </mask>
+     <mask id="id228">
+  <radialGradient id="id229" gradientUnits="userSpaceOnUse" cx="909.992" cy="11957.5" r="0" fx="909.992" fy="11957.5">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id229)" x="899" y="11947" width="119" height="109"/>
+     </mask>
+     <mask id="id230">
+  <radialGradient id="id231" gradientUnits="userSpaceOnUse" cx="3215.77" cy="14623.8" r="0" fx="3215.77" fy="14623.8">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id231)" x="3205" y="14613" width="119" height="109"/>
+     </mask>
+     <mask id="id232">
+  <radialGradient id="id233" gradientUnits="userSpaceOnUse" cx="1427.97" cy="14555.3" r="0" fx="1427.97" fy="14555.3">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id233)" x="1417" y="14545" width="119" height="109"/>
+     </mask>
+     <mask id="id234">
+  <radialGradient id="id235" gradientUnits="userSpaceOnUse" cx="3139.38" cy="15725.9" r="0" fx="3139.38" fy="15725.9">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id235)" x="3129" y="15715" width="119" height="109"/>
+     </mask>
+     <mask id="id236">
+  <radialGradient id="id237" gradientUnits="userSpaceOnUse" cx="3727.92" cy="13476.3" r="0" fx="3727.92" fy="13476.3">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id237)" x="3717" y="13466" width="119" height="109"/>
+     </mask>
+     <mask id="id238">
+  <radialGradient id="id239" gradientUnits="userSpaceOnUse" cx="4008.33" cy="12535.1" r="0" fx="4008.33" fy="12535.1">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id239)" x="3998" y="12524" width="119" height="109"/>
+     </mask>
+     <mask id="id240">
+  <radialGradient id="id241" gradientUnits="userSpaceOnUse" cx="3194.23" cy="12390.8" r="0" fx="3194.23" fy="12390.8">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id241)" x="3184" y="12380" width="119" height="109"/>
+     </mask>
+     <mask id="id242">
+  <radialGradient id="id243" gradientUnits="userSpaceOnUse" cx="3973.72" cy="11673.2" r="0" fx="3973.72" fy="11673.2">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id243)" x="3963" y="11663" width="119" height="109"/>
+     </mask>
+     <mask id="id244">
+  <radialGradient id="id245" gradientUnits="userSpaceOnUse" cx="4095.08" cy="17293.3" r="0" fx="4095.08" fy="17293.3">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id245)" x="4084" y="17283" width="119" height="109"/>
+     </mask>
+     <mask id="id246">
+  <radialGradient id="id247" gradientUnits="userSpaceOnUse" cx="3440.65" cy="17128.6" r="0" fx="3440.65" fy="17128.6">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id247)" x="3430" y="17118" width="119" height="109"/>
+     </mask>
+     <mask id="id248">
+  <radialGradient id="id249" gradientUnits="userSpaceOnUse" cx="4447.74" cy="16354.1" r="0" fx="4447.74" fy="16354.1">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id249)" x="4437" y="16343" width="119" height="109"/>
+     </mask>
+     <mask id="id250">
+  <radialGradient id="id251" gradientUnits="userSpaceOnUse" cx="5172.48" cy="12627.4" r="0" fx="5172.48" fy="12627.4">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id251)" x="5162" y="12617" width="119" height="109"/>
+     </mask>
+     <mask id="id252">
+  <radialGradient id="id253" gradientUnits="userSpaceOnUse" cx="441.141" cy="12280.3" r="0" fx="441.141" fy="12280.3">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id253)" x="431" y="12270" width="170" height="155"/>
+     </mask>
+     <mask id="id254">
+  <radialGradient id="id255" gradientUnits="userSpaceOnUse" cx="13.3836" cy="12694.4" r="0" fx="13.3836" fy="12694.4">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id255)" x="3" y="12684" width="258" height="237"/>
+     </mask>
+     <mask id="id256">
+  <radialGradient id="id257" gradientUnits="userSpaceOnUse" cx="435.221" cy="11505.1" r="0" fx="435.221" fy="11505.1">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id257)" x="425" y="11495" width="119" height="109"/>
+     </mask>
+     <mask id="id258">
+  <radialGradient id="id259" gradientUnits="userSpaceOnUse" cx="208.876" cy="12116.9" r="0" fx="208.876" fy="12116.9">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id259)" x="198" y="12106" width="169" height="154"/>
+     </mask>
+     <mask id="id260">
+  <radialGradient id="id261" gradientUnits="userSpaceOnUse" cx="905.306" cy="12936.7" r="0" fx="905.306" fy="12936.7">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id261)" x="895" y="12926" width="149" height="136"/>
+     </mask>
+     <mask id="id262">
+  <radialGradient id="id263" gradientUnits="userSpaceOnUse" cx="1173.8" cy="13171.9" r="0" fx="1173.8" fy="13171.9">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id263)" x="1163" y="13161" width="127" height="116"/>
+     </mask>
+     <mask id="id264">
+  <radialGradient id="id265" gradientUnits="userSpaceOnUse" cx="144.985" cy="13341.6" r="0" fx="144.985" fy="13341.6">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id265)" x="134" y="13331" width="199" height="180"/>
+     </mask>
+     <mask id="id266">
+  <radialGradient id="id267" gradientUnits="userSpaceOnUse" cx="395.862" cy="15959.6" r="0" fx="395.862" fy="15959.6">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id267)" x="385" y="15949" width="154" height="140"/>
+     </mask>
+     <mask id="id268">
+  <radialGradient id="id269" gradientUnits="userSpaceOnUse" cx="305.212" cy="16485.4" r="0" fx="305.212" fy="16485.4">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id269)" x="295" y="16475" width="162" height="147"/>
+     </mask>
+     <mask id="id270">
+  <radialGradient id="id271" gradientUnits="userSpaceOnUse" cx="350.125" cy="16882.3" r="0" fx="350.125" fy="16882.3">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id271)" x="340" y="16872" width="154" height="140"/>
+     </mask>
+     <mask id="id272">
+  <radialGradient id="id273" gradientUnits="userSpaceOnUse" cx="-46.9718" cy="17519" r="0" fx="-46.9718" fy="17519">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id273)" x="-58" y="17508" width="120" height="110"/>
+     </mask>
+     <mask id="id274">
+  <radialGradient id="id275" gradientUnits="userSpaceOnUse" cx="808.936" cy="14223.9" r="0" fx="808.936" fy="14223.9">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id275)" x="798" y="14213" width="123" height="112"/>
+     </mask>
+     <mask id="id276">
+  <radialGradient id="id277" gradientUnits="userSpaceOnUse" cx="762.898" cy="14805.8" r="0" fx="762.898" fy="14805.8">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id277)" x="752" y="14795" width="121" height="111"/>
+     </mask>
+     <mask id="id278">
+  <radialGradient id="id279" gradientUnits="userSpaceOnUse" cx="1889.95" cy="13190.8" r="0" fx="1889.95" fy="13190.8">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id279)" x="1879" y="13180" width="133" height="122"/>
+     </mask>
+     <mask id="id280">
+  <radialGradient id="id281" gradientUnits="userSpaceOnUse" cx="2023.78" cy="11674.9" r="0" fx="2023.78" fy="11674.9">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id281)" x="2013" y="11664" width="119" height="109"/>
+     </mask>
+     <mask id="id282">
+  <radialGradient id="id283" gradientUnits="userSpaceOnUse" cx="1244.31" cy="16142.3" r="0" fx="1244.31" fy="16142.3">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id283)" x="1234" y="16132" width="177" height="161"/>
+     </mask>
+     <mask id="id284">
+  <radialGradient id="id285" gradientUnits="userSpaceOnUse" cx="2174.17" cy="16812.8" r="0" fx="2174.17" fy="16812.8">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id285)" x="2164" y="16802" width="145" height="132"/>
+     </mask>
+     <mask id="id286">
+  <radialGradient id="id287" gradientUnits="userSpaceOnUse" cx="2422.1" cy="17269.3" r="0" fx="2422.1" fy="17269.3">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id287)" x="2412" y="17259" width="128" height="117"/>
+     </mask>
+     <mask id="id288">
+  <radialGradient id="id289" gradientUnits="userSpaceOnUse" cx="3299.67" cy="14291.3" r="0" fx="3299.67" fy="14291.3">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id289)" x="3289" y="14281" width="119" height="109"/>
+     </mask>
+     <mask id="id290">
+  <radialGradient id="id291" gradientUnits="userSpaceOnUse" cx="3793.73" cy="12776.2" r="0" fx="3793.73" fy="12776.2">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id291)" x="3783" y="12766" width="119" height="109"/>
+     </mask>
+     <mask id="id292">
+  <radialGradient id="id293" gradientUnits="userSpaceOnUse" cx="3242.27" cy="11752.9" r="0" fx="3242.27" fy="11752.9">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id293)" x="3232" y="11742" width="119" height="109"/>
+     </mask>
+     <mask id="id294">
+  <radialGradient id="id295" gradientUnits="userSpaceOnUse" cx="4253.43" cy="17219.8" r="0" fx="4253.43" fy="17219.8">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id295)" x="4243" y="17209" width="119" height="109"/>
+     </mask>
+     <mask id="id296">
+  <radialGradient id="id297" gradientUnits="userSpaceOnUse" cx="4270.78" cy="14301.6" r="0" fx="4270.78" fy="14301.6">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.470588" style="stop-opacity:0.498039; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+      <rect style="fill:url(#id297)" x="4260" y="14291" width="119" height="109"/>
+     </mask>
+  <linearGradient id="id298" gradientUnits="userSpaceOnUse" x1="411.756" y1="1446.44" x2="12071.7" y2="17035.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#1E61A5"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#0EA1D5"/>
+  </linearGradient>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="12542" height="17559"/>
+  <g id="_1050129472">
+   <g>
+    <path class="fil1 str0" d="M1482 664c59,0 107,45 107,102 0,56 -48,101 -107,101 -60,0 -107,-45 -107,-101 0,-57 47,-102 107,-102z"/>
+    <g>
+     <polyline class="fil2 str1" points="13,2868 527,2868 1209,2220 3308,2220 "/>
+     <path class="fil3 str2" d="M3306 2265c26,0 48,-20 48,-45 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,2868 527,2868 1209,2220 3308,2220 "/>
+     <path class="fil3 str2" d="M3306 2265c26,0 48,-20 48,-45 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,3828 1664,3828 2040,3543 4109,3543 "/>
+     <path class="fil3 str2" d="M4106 3588c27,0 49,-20 49,-45 0,-26 -22,-46 -49,-46 -26,0 -48,20 -48,46 0,25 22,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,3828 1664,3828 2040,3543 4109,3543 "/>
+     <path class="fil3 str2" d="M4106 3588c27,0 49,-20 49,-45 0,-26 -22,-46 -49,-46 -26,0 -48,20 -48,46 0,25 22,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,3828 1664,3828 2040,3543 4109,3543 "/>
+     <path class="fil3 str2" d="M4106 3588c27,0 49,-20 49,-45 0,-26 -22,-46 -49,-46 -26,0 -48,20 -48,46 0,25 22,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="1383,3640 1721,3318 3540,3318 "/>
+     <path class="fil3 str2" d="M3538 3364c27,0 48,-21 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,2178 258,2410 490,2410 "/>
+     <path class="fil3 str2" d="M487 2456c27,0 48,-21 48,-46 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,2178 258,2410 490,2410 "/>
+     <path class="fil3 str2" d="M487 2456c27,0 48,-21 48,-46 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,2178 258,2410 490,2410 "/>
+     <path class="fil3 str2" d="M487 2456c27,0 48,-21 48,-46 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,2178 258,2410 490,2410 "/>
+     <path class="fil3 str2" d="M487 2456c27,0 48,-21 48,-46 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,1340 535,1340 1063,1865 3947,1945 "/>
+     <path class="fil3 str2" d="M3943 1990c27,1 49,-19 50,-44 0,-25 -20,-46 -47,-47 -26,-1 -49,19 -49,44 -1,25 20,46 46,47z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,1340 535,1340 1063,1865 3947,1945 "/>
+     <path class="fil3 str2" d="M3943 1990c27,1 49,-19 50,-44 0,-25 -20,-46 -47,-47 -26,-1 -49,19 -49,44 -1,25 20,46 46,47z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,1493 297,1493 896,2062 1548,2062 "/>
+     <path class="fil3 str2" d="M1545 2108c27,0 48,-21 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,1493 297,1493 896,2062 1548,2062 "/>
+     <path class="fil3 str2" d="M1545 2108c27,0 48,-21 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,1493 297,1493 896,2062 1548,2062 "/>
+     <path class="fil3 str2" d="M1545 2108c27,0 48,-21 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,4032 706,4032 1280,4577 2814,4577 "/>
+     <path class="fil3 str2" d="M2812 4623c27,0 48,-20 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,26 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,4032 706,4032 1280,4577 2814,4577 "/>
+     <path class="fil3 str2" d="M2812 4623c27,0 48,-20 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,26 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,4032 706,4032 1280,4577 2814,4577 "/>
+     <path class="fil3 str2" d="M2812 4623c27,0 48,-20 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,26 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,4226 620,4226 1453,5016 3641,5016 "/>
+     <path class="fil3 str2" d="M3638 5062c27,0 48,-21 48,-46 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,4226 620,4226 1453,5016 3641,5016 "/>
+     <path class="fil3 str2" d="M3638 5062c27,0 48,-21 48,-46 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="1480" y1="4897" x2="2644" y2= "4897" />
+     <path class="fil3 str2" d="M2642 4942c26,0 48,-20 48,-45 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="1480" y1="4897" x2="2644" y2= "4897" />
+     <path class="fil3 str2" d="M2642 4942c26,0 48,-20 48,-45 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="1480" y1="4897" x2="2644" y2= "4897" />
+     <path class="fil3 str2" d="M2642 4942c26,0 48,-20 48,-45 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="1055,3969 1395,4292 3453,4292 "/>
+     <path class="fil3 str2" d="M3451 4338c26,0 48,-20 48,-46 0,-25 -22,-45 -48,-45 -27,0 -48,20 -48,45 0,26 21,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="1055,3969 1395,4292 3453,4292 "/>
+     <path class="fil3 str2" d="M3451 4338c26,0 48,-20 48,-46 0,-25 -22,-45 -48,-45 -27,0 -48,20 -48,45 0,26 21,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="1932,3969 2210,3705 3206,3705 "/>
+     <path class="fil3 str2" d="M3204 3751c26,0 48,-21 48,-46 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,46 48,46z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="2386" y1="4032" x2="4381" y2= "4032" />
+     <path class="fil3 str2" d="M4379 4077c27,0 48,-20 48,-45 0,-25 -21,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="2386" y1="4032" x2="4381" y2= "4032" />
+     <path class="fil3 str2" d="M4379 4077c27,0 48,-20 48,-45 0,-25 -21,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,1089 987,1089 1519,1594 2951,1594 "/>
+     <path class="fil3 str2" d="M2948 1640c27,0 48,-21 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,1089 987,1089 1519,1594 2951,1594 "/>
+     <path class="fil3 str2" d="M2948 1640c27,0 48,-21 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,1089 987,1089 1519,1594 2951,1594 "/>
+     <path class="fil3 str2" d="M2948 1640c27,0 48,-21 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="1634,1380 3499,1380 3727,1596 4305,1596 "/>
+     <path class="fil3 str2" d="M4302 1642c27,0 48,-21 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="1634,1380 3499,1380 3727,1596 4305,1596 "/>
+     <path class="fil3 str2" d="M4302 1642c27,0 48,-21 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="13" y1="4725" x2="220" y2= "4529" />
+     <path class="fil3 str2" d="M252 4563c19,-18 19,-47 0,-64 -19,-18 -49,-18 -68,0 -19,17 -19,46 0,64 19,18 49,18 68,0z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="13" y1="4725" x2="220" y2= "4529" />
+     <path class="fil3 str2" d="M252 4563c19,-18 19,-47 0,-64 -19,-18 -49,-18 -68,0 -19,17 -19,46 0,64 19,18 49,18 68,0z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="13" y1="4725" x2="220" y2= "4529" />
+     <path class="fil3 str2" d="M252 4563c19,-18 19,-47 0,-64 -19,-18 -49,-18 -68,0 -19,17 -19,46 0,64 19,18 49,18 68,0z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="13" y1="4725" x2="220" y2= "4529" />
+     <path class="fil3 str2" d="M252 4563c19,-18 19,-47 0,-64 -19,-18 -49,-18 -68,0 -19,17 -19,46 0,64 19,18 49,18 68,0z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,5016 314,5016 656,4691 "/>
+     <path class="fil3 str2" d="M688 4725c19,-18 19,-46 0,-64 -19,-18 -49,-18 -68,0 -19,18 -19,46 0,64 19,18 49,18 68,0z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,5016 314,5016 656,4691 "/>
+     <path class="fil3 str2" d="M688 4725c19,-18 19,-46 0,-64 -19,-18 -49,-18 -68,0 -19,18 -19,46 0,64 19,18 49,18 68,0z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,5016 314,5016 656,4691 "/>
+     <path class="fil3 str2" d="M688 4725c19,-18 19,-46 0,-64 -19,-18 -49,-18 -68,0 -19,18 -19,46 0,64 19,18 49,18 68,0z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="1727" y1="2500" x2="4041" y2= "2500" />
+     <path class="fil3 str2" d="M4038 2545c27,0 48,-20 48,-45 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,45 48,45z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="1727" y1="2500" x2="4041" y2= "2500" />
+     <path class="fil3 str2" d="M4038 2545c27,0 48,-20 48,-45 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,5374 933,5374 1220,5646 2589,5646 "/>
+     <path class="fil3 str2" d="M2586 5691c27,0 48,-20 48,-45 0,-26 -21,-46 -48,-46 -26,0 -48,20 -48,46 0,25 22,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,5374 933,5374 1220,5646 2589,5646 "/>
+     <path class="fil3 str2" d="M2586 5691c27,0 48,-20 48,-45 0,-26 -21,-46 -48,-46 -26,0 -48,20 -48,46 0,25 22,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,5374 933,5374 1220,5646 2589,5646 "/>
+     <path class="fil3 str2" d="M2586 5691c27,0 48,-20 48,-45 0,-26 -21,-46 -48,-46 -26,0 -48,20 -48,46 0,25 22,45 48,45z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="1251" y1="5374" x2="3087" y2= "5374" />
+     <path class="fil3 str2" d="M3085 5419c26,0 48,-20 48,-45 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="13" y1="5608" x2="600" y2= "5608" />
+     <path class="fil3 str2" d="M598 5654c26,0 48,-21 48,-46 0,-25 -22,-45 -48,-45 -27,0 -48,20 -48,45 0,25 21,46 48,46z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="13" y1="5608" x2="600" y2= "5608" />
+     <path class="fil3 str2" d="M598 5654c26,0 48,-21 48,-46 0,-25 -22,-45 -48,-45 -27,0 -48,20 -48,45 0,25 21,46 48,46z"/>
+    </g>
+    <polyline class="fil2 str1" points="13,5826 894,5826 1068,5992 "/>
+    <polyline class="fil2 str1" points="13,5826 894,5826 1068,5992 "/>
+    <polyline class="fil2 str1" points="13,5826 894,5826 1068,5992 "/>
+    <polyline class="fil2 str1" points="13,5826 894,5826 1068,5992 "/>
+    <g>
+     <polyline class="fil2 str1" points="13,400 259,166 2146,166 "/>
+     <path class="fil3 str2" d="M2144 212c26,0 48,-21 48,-46 0,-25 -22,-45 -48,-45 -27,0 -48,20 -48,45 0,25 21,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,400 259,166 2146,166 "/>
+     <path class="fil3 str2" d="M2144 212c26,0 48,-21 48,-46 0,-25 -22,-45 -48,-45 -27,0 -48,20 -48,45 0,25 21,46 48,46z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="434" y1="390" x2="3308" y2= "390" />
+     <path class="fil3 str2" d="M3306 435c26,0 48,-20 48,-45 0,-26 -22,-46 -48,-46 -27,0 -48,20 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="434" y1="390" x2="3308" y2= "390" />
+     <path class="fil3 str2" d="M3306 435c26,0 48,-20 48,-45 0,-26 -22,-46 -48,-46 -27,0 -48,20 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="434" y1="390" x2="3308" y2= "390" />
+     <path class="fil3 str2" d="M3306 435c26,0 48,-20 48,-45 0,-26 -22,-46 -48,-46 -27,0 -48,20 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="1932,766 3184,766 3369,941 3892,941 "/>
+     <path class="fil3 str2" d="M3889 987c27,0 48,-21 48,-46 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <g>
+      <line class="fil2 str1" x1="13" y1="68" x2="46" y2= "68" />
+      <path class="fil3 str2" d="M44 114c27,0 48,-21 48,-46 0,-25 -21,-45 -48,-45 -12,0 -22,4 -31,10l0 70c9,7 19,11 31,11z"/>
+     </g>
+     <g>
+      <line class="fil2 str1" x1="13" y1="68" x2="46" y2= "68" />
+      <path class="fil3 str2" d="M44 114c27,0 48,-21 48,-46 0,-25 -21,-45 -48,-45 -12,0 -22,4 -31,10l0 70c9,7 19,11 31,11z"/>
+     </g>
+     <g>
+      <line class="fil2 str1" x1="13" y1="68" x2="46" y2= "68" />
+      <path class="fil3 str2" d="M44 114c27,0 48,-21 48,-46 0,-25 -21,-45 -48,-45 -12,0 -22,4 -31,10l0 70c9,7 19,11 31,11z"/>
+     </g>
+     <g>
+      <line class="fil2 str1" x1="13" y1="68" x2="46" y2= "68" />
+      <path class="fil3 str2" d="M44 114c27,0 48,-21 48,-46 0,-25 -21,-45 -48,-45 -12,0 -22,4 -31,10l0 70c9,7 19,11 31,11z"/>
+     </g>
+    </g>
+    <g>
+     <g>
+      <polyline class="fil2 str1" points="13,766 1480,766 1774,1044 2946,1044 "/>
+      <path class="fil3 str2" d="M2944 1090c27,0 48,-20 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,26 22,46 48,46z"/>
+     </g>
+     <g>
+      <polyline class="fil2 str1" points="13,766 1480,766 1774,1044 2946,1044 "/>
+      <path class="fil3 str2" d="M2944 1090c27,0 48,-20 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,26 22,46 48,46z"/>
+     </g>
+     <g>
+      <polyline class="fil2 str1" points="13,766 1480,766 1774,1044 2946,1044 "/>
+      <path class="fil3 str2" d="M2944 1090c27,0 48,-20 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,26 22,46 48,46z"/>
+     </g>
+    </g>
+    <g>
+     <path class="fil3 str2" style="mask:url(#id0)" d="M23 3293c24,0 44,19 44,42 0,23 -20,42 -44,42 -3,0 -7,0 -10,-1l0 -83c3,0 7,0 10,0z"/>
+     <path class="fil3 str2" style="mask:url(#id2)" d="M996 4941c25,0 45,19 45,42 0,23 -20,42 -45,42 -25,0 -45,-19 -45,-42 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id4)" d="M2546 2849c25,0 45,19 45,43 0,23 -20,42 -45,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id6)" d="M306 2184c25,0 45,19 45,42 0,24 -20,43 -45,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id8)" d="M997 1496c24,0 44,19 44,43 0,23 -20,42 -44,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id10)" d="M520 910c25,0 45,19 45,43 0,23 -20,42 -45,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id12)" d="M174 413c24,0 44,19 44,42 0,24 -20,43 -44,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id14)" d="M586 3326c25,0 45,19 45,42 0,24 -20,43 -45,43 -24,0 -44,-19 -44,-43 0,-23 20,-42 44,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id16)" d="M170 4858c25,0 45,19 45,42 0,24 -20,43 -45,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id18)" d="M563 498c24,0 44,19 44,42 0,24 -20,43 -44,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id20)" d="M1169 2566c24,0 44,19 44,42 0,24 -20,43 -44,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id22)" d="M1879 5274c25,0 45,19 45,42 0,24 -20,43 -45,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id24)" d="M2997 5699c25,0 45,19 45,42 0,24 -20,43 -45,43 -24,0 -44,-19 -44,-43 0,-23 20,-42 44,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id26)" d="M1740 607c25,0 45,19 45,42 0,24 -20,43 -45,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id28)" d="M2889 549c25,0 45,19 45,42 0,24 -20,43 -45,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id30)" d="M2727 35c25,0 45,19 45,42 0,24 -20,43 -45,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id32)" d="M848 448c25,0 45,19 45,42 0,23 -20,42 -45,42 -24,0 -44,-19 -44,-42 0,-23 20,-42 44,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id34)" d="M501 3218c24,0 44,19 44,42 0,24 -20,43 -44,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id36)" d="M511 5152c24,0 44,19 44,43 0,23 -20,42 -44,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id38)" d="M249 5732c25,0 45,19 45,42 0,24 -20,43 -45,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id40)" d="M1864 4420c24,0 44,19 44,42 0,24 -20,43 -44,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id42)" d="M1281 5258c25,0 45,19 45,43 0,23 -20,42 -45,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id44)" d="M210 2653c24,0 44,19 44,43 0,23 -20,42 -44,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id46)" d="M109 866c25,0 45,19 45,42 0,24 -20,43 -45,43 -24,0 -44,-19 -44,-43 0,-23 20,-42 44,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id48)" d="M3393 2675c24,0 44,19 44,42 0,24 -20,43 -44,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id50)" d="M1755 2741c25,0 45,19 45,43 0,23 -20,42 -45,42 -24,0 -44,-19 -44,-42 0,-24 20,-43 44,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id52)" d="M3323 1607c24,0 44,19 44,42 0,24 -20,43 -44,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id54)" d="M3862 3787c24,0 44,19 44,42 0,23 -20,42 -44,42 -25,0 -45,-19 -45,-42 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id56)" d="M4118 4698c25,0 45,19 45,43 0,23 -20,42 -45,42 -24,0 -44,-19 -44,-42 0,-24 20,-43 44,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id58)" d="M3373 4838c24,0 44,19 44,43 0,23 -20,42 -44,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id60)" d="M4087 5534c24,0 44,19 44,42 0,23 -20,42 -44,42 -25,0 -45,-19 -45,-42 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id62)" d="M4198 88c24,0 44,19 44,43 0,23 -20,42 -44,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id64)" d="M3598 248c25,0 45,19 45,42 0,24 -20,43 -45,43 -24,0 -44,-19 -44,-43 0,-23 20,-42 44,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id66)" d="M4521 998c24,0 44,19 44,43 0,23 -20,42 -44,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id68)" d="M5184 4609c25,0 45,19 45,42 0,24 -20,43 -45,43 -24,0 -44,-19 -44,-43 0,-23 20,-42 44,-42z"/>
+    </g>
+    <g>
+     <path class="fil3 str2" style="mask:url(#id70)" d="M13 4478c4,10 6,20 6,32 0,11 -2,21 -6,31l0 -63z"/>
+     <path class="fil3 str2" style="mask:url(#id72)" d="M875 4901c38,0 68,29 68,64 0,36 -30,65 -68,65 -38,0 -68,-29 -68,-65 0,-35 30,-64 68,-64z"/>
+     <path class="fil3 str2" style="mask:url(#id74)" d="M522 4420c61,0 110,47 110,104 0,58 -49,105 -110,105 -61,0 -110,-47 -110,-105 0,-57 49,-104 110,-104z"/>
+     <path class="fil3 str2" style="mask:url(#id76)" d="M239 1976c27,0 48,20 48,45 0,25 -21,46 -48,46 -26,0 -48,-21 -48,-46 0,-25 22,-45 48,-45z"/>
+     <path class="fil3 str2" style="mask:url(#id78)" d="M120 402c26,0 47,20 47,45 0,24 -21,44 -47,44 -26,0 -47,-20 -47,-44 0,-25 21,-45 47,-45z"/>
+     <path class="fil3 str2" style="mask:url(#id80)" d="M23 5205c34,0 62,26 62,59 0,32 -28,59 -62,59 -3,0 -6,-1 -10,-1l0 -116c4,-1 7,-1 10,-1z"/>
+     <path class="fil3 str2" style="mask:url(#id82)" d="M85 5569c27,0 48,20 48,45 0,25 -21,45 -48,45 -26,0 -47,-20 -47,-45 0,-25 21,-45 47,-45z"/>
+     <path class="fil3 str2" style="mask:url(#id84)" d="M846 5696c25,0 45,19 45,43 0,23 -20,42 -45,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id86)" d="M662 5060c37,0 67,29 67,64 0,36 -30,65 -67,65 -38,0 -68,-29 -68,-65 0,-35 30,-64 68,-64z"/>
+     <path class="fil3 str2" style="mask:url(#id88)" d="M1290 4283c33,0 59,25 59,56 0,30 -26,55 -59,55 -32,0 -58,-25 -58,-55 0,-31 26,-56 58,-56z"/>
+     <path class="fil3 str2" style="mask:url(#id90)" d="M1526 4074c27,0 49,21 49,46 0,26 -22,46 -49,46 -26,0 -48,-20 -48,-46 0,-25 22,-46 48,-46z"/>
+     <path class="fil3 str2" style="mask:url(#id92)" d="M617 3848c45,0 81,34 81,77 0,42 -36,77 -81,77 -45,0 -81,-35 -81,-77 0,-43 36,-77 81,-77z"/>
+     <path class="fil3 str2" style="mask:url(#id94)" d="M282 1611c28,0 50,21 50,47 0,26 -22,47 -50,47 -27,0 -49,-21 -49,-47 0,-26 22,-47 49,-47z"/>
+     <path class="fil3 str2" style="mask:url(#id96)" d="M826 1350c34,0 61,26 61,58 0,31 -27,57 -61,57 -33,0 -61,-26 -61,-57 0,-32 28,-58 61,-58z"/>
+     <path class="fil3 str2" style="mask:url(#id98)" d="M747 834c35,0 64,27 64,61 0,34 -29,61 -64,61 -36,0 -65,-27 -65,-61 0,-34 29,-61 65,-61z"/>
+     <path class="fil3 str2" style="mask:url(#id100)" d="M784 456c34,0 61,26 61,58 0,32 -27,57 -61,57 -33,0 -61,-25 -61,-57 0,-32 28,-58 61,-58z"/>
+     <path class="fil3 str2" style="mask:url(#id102)" d="M257 186c26,0 47,20 47,44 0,25 -21,45 -47,45 -26,0 -47,-20 -47,-45 0,-24 21,-44 47,-44z"/>
+     <path class="fil3 str2" style="mask:url(#id104)" d="M1190 3059c26,0 47,20 47,44 0,24 -21,44 -47,44 -26,0 -46,-20 -46,-44 0,-24 20,-44 46,-44z"/>
+     <path class="fil3 str2" style="mask:url(#id106)" d="M1147 2496c26,0 46,20 46,44 0,24 -20,43 -46,43 -25,0 -46,-19 -46,-43 0,-24 21,-44 46,-44z"/>
+     <path class="fil3 str2" style="mask:url(#id108)" d="M2185 4051c28,0 51,21 51,48 0,27 -23,49 -51,49 -28,0 -51,-22 -51,-49 0,-27 23,-48 51,-48z"/>
+     <path class="fil3 str2" style="mask:url(#id110)" d="M2301 5532c25,0 45,19 45,42 0,24 -20,43 -45,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id112)" d="M1614 1153c39,0 71,30 71,68 0,37 -32,67 -71,67 -40,0 -72,-30 -72,-67 0,-38 32,-68 72,-68z"/>
+     <path class="fil3 str2" style="mask:url(#id114)" d="M2451 531c31,0 56,24 56,54 0,30 -25,54 -56,54 -32,0 -57,-24 -57,-54 0,-30 25,-54 57,-54z"/>
+     <path class="fil3 str2" style="mask:url(#id116)" d="M2670 103c27,0 49,21 49,47 0,25 -22,46 -49,46 -27,0 -49,-21 -49,-46 0,-26 22,-47 49,-47z"/>
+     <path class="fil3 str2" style="mask:url(#id118)" d="M3469 2997c25,0 45,19 45,42 0,24 -20,43 -45,43 -24,0 -44,-19 -44,-43 0,-23 20,-42 44,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id120)" d="M3922 4465c24,0 44,19 44,42 0,24 -20,43 -44,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id122)" d="M3417 5456c24,0 44,19 44,43 0,23 -20,42 -44,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id124)" d="M4343 159c24,0 44,19 44,43 0,23 -20,42 -44,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id126)" d="M4359 2987c24,0 44,19 44,42 0,24 -20,43 -44,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,3606 1038,3606 1470,3195 2889,3195 "/>
+     <path class="fil3 str2" d="M2887 3241c26,0 48,-20 48,-46 0,-25 -22,-45 -48,-45 -27,0 -48,20 -48,45 0,26 21,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,3606 1038,3606 1470,3195 2889,3195 "/>
+     <path class="fil3 str2" d="M2887 3241c26,0 48,-20 48,-46 0,-25 -22,-45 -48,-45 -27,0 -48,20 -48,45 0,26 21,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,3606 1038,3606 1470,3195 2889,3195 "/>
+     <path class="fil3 str2" d="M2887 3241c26,0 48,-20 48,-46 0,-25 -22,-45 -48,-45 -27,0 -48,20 -48,45 0,26 21,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,3447 998,3447 1430,3036 2340,3036 "/>
+     <path class="fil3 str2" d="M2338 3082c27,0 48,-20 48,-46 0,-25 -21,-45 -48,-45 -27,0 -48,20 -48,45 0,26 21,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,3447 998,3447 1430,3036 2340,3036 "/>
+     <path class="fil3 str2" d="M2338 3082c27,0 48,-20 48,-46 0,-25 -21,-45 -48,-45 -27,0 -48,20 -48,45 0,26 21,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,3036 970,3036 1657,2384 4560,2384 "/>
+     <path class="fil3 str2" d="M4558 2429c26,0 48,-20 48,-45 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,1703 216,1703 683,2147 "/>
+     <path class="fil3 str2" d="M647 2177c19,18 49,18 68,0 19,-17 19,-46 0,-64 -19,-18 -49,-18 -68,0 -19,18 -19,47 0,64z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,1703 216,1703 683,2147 "/>
+     <path class="fil3 str2" d="M647 2177c19,18 49,18 68,0 19,-17 19,-46 0,-64 -19,-18 -49,-18 -68,0 -19,18 -19,47 0,64z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="13" y1="2640" x2="42" y2= "2640" />
+     <path class="fil3 str2" d="M40 2685c27,0 48,-20 48,-45 0,-25 -21,-46 -48,-46 -10,0 -19,3 -27,8l0 76c8,5 17,7 27,7z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="13" y1="2640" x2="42" y2= "2640" />
+     <path class="fil3 str2" d="M40 2685c27,0 48,-20 48,-45 0,-25 -21,-46 -48,-46 -10,0 -19,3 -27,8l0 76c8,5 17,7 27,7z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="13" y1="2640" x2="42" y2= "2640" />
+     <path class="fil3 str2" d="M40 2685c27,0 48,-20 48,-45 0,-25 -21,-46 -48,-46 -10,0 -19,3 -27,8l0 76c8,5 17,7 27,7z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="13" y1="2640" x2="42" y2= "2640" />
+     <path class="fil3 str2" d="M40 2685c27,0 48,-20 48,-45 0,-25 -21,-46 -48,-46 -10,0 -19,3 -27,8l0 76c8,5 17,7 27,7z"/>
+    </g>
+   </g>
+   <g>
+    <path class="fil1 str0" d="M438 6346c59,0 107,46 107,102 0,56 -48,102 -107,102 -59,0 -107,-46 -107,-102 0,-56 48,-102 107,-102z"/>
+    <g>
+     <polyline class="fil2 str1" points="13,8047 166,7902 2265,7902 "/>
+     <path class="fil3 str2" d="M2263 7948c26,0 48,-21 48,-46 0,-25 -22,-46 -48,-46 -27,0 -49,21 -49,46 0,25 22,46 49,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,8047 166,7902 2265,7902 "/>
+     <path class="fil3 str2" d="M2263 7948c26,0 48,-21 48,-46 0,-25 -22,-46 -48,-46 -27,0 -49,21 -49,46 0,25 22,46 49,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,9510 620,9510 997,9225 3065,9225 "/>
+     <path class="fil3 str2" d="M3063 9271c27,0 48,-21 48,-46 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,9510 620,9510 997,9225 3065,9225 "/>
+     <path class="fil3 str2" d="M3063 9271c27,0 48,-21 48,-46 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,9510 620,9510 997,9225 3065,9225 "/>
+     <path class="fil3 str2" d="M3063 9271c27,0 48,-21 48,-46 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="339,9322 678,9001 2497,9001 "/>
+     <path class="fil3 str2" d="M2495 9046c26,0 48,-20 48,-45 0,-26 -22,-46 -48,-46 -27,0 -48,20 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,7541 20,7547 2904,7627 "/>
+     <path class="fil3 str2" d="M2900 7673c26,0 48,-20 49,-45 1,-25 -20,-46 -46,-47 -27,0 -49,19 -50,45 -1,25 20,46 47,47z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,7541 20,7547 2904,7627 "/>
+     <path class="fil3 str2" d="M2900 7673c26,0 48,-20 49,-45 1,-25 -20,-46 -46,-47 -27,0 -49,19 -50,45 -1,25 20,46 47,47z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="13" y1="7744" x2="504" y2= "7744" />
+     <path class="fil3 str2" d="M502 7790c26,0 48,-20 48,-46 0,-25 -22,-45 -48,-45 -27,0 -48,20 -48,45 0,26 21,46 48,46z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="13" y1="7744" x2="504" y2= "7744" />
+     <path class="fil3 str2" d="M502 7790c26,0 48,-20 48,-46 0,-25 -22,-45 -48,-45 -27,0 -48,20 -48,45 0,26 21,46 48,46z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="13" y1="7744" x2="504" y2= "7744" />
+     <path class="fil3 str2" d="M502 7790c26,0 48,-20 48,-46 0,-25 -22,-45 -48,-45 -27,0 -48,20 -48,45 0,26 21,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,10048 237,10260 1771,10260 "/>
+     <path class="fil3 str2" d="M1769 10305c26,0 48,-20 48,-45 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,10048 237,10260 1771,10260 "/>
+     <path class="fil3 str2" d="M1769 10305c26,0 48,-20 48,-45 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,10048 237,10260 1771,10260 "/>
+     <path class="fil3 str2" d="M1769 10305c26,0 48,-20 48,-45 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,10322 409,10698 2597,10698 "/>
+     <path class="fil3 str2" d="M2595 10744c26,0 48,-20 48,-46 0,-25 -22,-45 -48,-45 -27,0 -48,20 -48,45 0,26 21,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,10322 409,10698 2597,10698 "/>
+     <path class="fil3 str2" d="M2595 10744c26,0 48,-20 48,-46 0,-25 -22,-45 -48,-45 -27,0 -48,20 -48,45 0,26 21,46 48,46z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="437" y1="10579" x2="1601" y2= "10579" />
+     <path class="fil3 str2" d="M1598 10625c27,0 48,-21 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="437" y1="10579" x2="1601" y2= "10579" />
+     <path class="fil3 str2" d="M1598 10625c27,0 48,-21 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="437" y1="10579" x2="1601" y2= "10579" />
+     <path class="fil3 str2" d="M1598 10625c27,0 48,-21 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,25 22,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,9654 352,9975 2410,9975 "/>
+     <path class="fil3 str2" d="M2407 10020c27,0 48,-20 48,-45 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,9654 352,9975 2410,9975 "/>
+     <path class="fil3 str2" d="M2407 10020c27,0 48,-20 48,-45 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="888,9651 1167,9387 2163,9387 "/>
+     <path class="fil3 str2" d="M2160 9433c27,0 48,-20 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,26 22,46 48,46z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="1343" y1="9714" x2="3338" y2= "9714" />
+     <path class="fil3 str2" d="M3336 9760c26,0 48,-21 48,-46 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,46 48,46z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="1343" y1="9714" x2="3338" y2= "9714" />
+     <path class="fil3 str2" d="M3336 9760c26,0 48,-21 48,-46 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,6838 475,7277 1907,7277 "/>
+     <path class="fil3 str2" d="M1905 7322c26,0 48,-20 48,-45 0,-26 -22,-46 -48,-46 -27,0 -48,20 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,6838 475,7277 1907,7277 "/>
+     <path class="fil3 str2" d="M1905 7322c26,0 48,-20 48,-45 0,-26 -22,-46 -48,-46 -27,0 -48,20 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,6838 475,7277 1907,7277 "/>
+     <path class="fil3 str2" d="M1905 7322c26,0 48,-20 48,-45 0,-26 -22,-46 -48,-46 -27,0 -48,20 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="590,7062 2455,7062 2683,7279 3261,7279 "/>
+     <path class="fil3 str2" d="M3259 7324c26,0 48,-20 48,-45 0,-26 -22,-46 -48,-46 -27,0 -48,20 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="590,7062 2455,7062 2683,7279 3261,7279 "/>
+     <path class="fil3 str2" d="M3259 7324c26,0 48,-20 48,-45 0,-26 -22,-46 -48,-46 -27,0 -48,20 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="684" y1="8182" x2="2997" y2= "8182" />
+     <path class="fil3 str2" d="M2995 8228c26,0 48,-21 48,-46 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,46 48,46z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="684" y1="8182" x2="2997" y2= "8182" />
+     <path class="fil3 str2" d="M2995 8228c26,0 48,-21 48,-46 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,11173 176,11328 1545,11328 "/>
+     <path class="fil3 str2" d="M1543 11374c26,0 48,-21 48,-46 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,11173 176,11328 1545,11328 "/>
+     <path class="fil3 str2" d="M1543 11374c26,0 48,-21 48,-46 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,46 48,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,11173 176,11328 1545,11328 "/>
+     <path class="fil3 str2" d="M1543 11374c26,0 48,-21 48,-46 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,46 48,46z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="207" y1="11056" x2="2044" y2= "11056" />
+     <path class="fil3 str2" d="M2041 11102c27,0 48,-21 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,25 22,46 48,46z"/>
+    </g>
+    <line class="fil2 str1" x1="13" y1="11664" x2="25" y2= "11675" />
+    <line class="fil2 str1" x1="13" y1="11664" x2="25" y2= "11675" />
+    <line class="fil2 str1" x1="13" y1="11664" x2="25" y2= "11675" />
+    <line class="fil2 str1" x1="13" y1="11664" x2="25" y2= "11675" />
+    <g>
+     <line class="fil2 str1" x1="13" y1="5849" x2="1102" y2= "5849" />
+     <path class="fil3 str2" d="M1100 5894c27,0 48,-20 48,-45 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,45 48,45z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="13" y1="5849" x2="1102" y2= "5849" />
+     <path class="fil3 str2" d="M1100 5894c27,0 48,-20 48,-45 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,45 48,45z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="13" y1="6072" x2="2265" y2= "6072" />
+     <path class="fil3 str2" d="M2263 6118c26,0 48,-21 48,-46 0,-25 -22,-46 -48,-46 -27,0 -49,21 -49,46 0,25 22,46 49,46z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="13" y1="6072" x2="2265" y2= "6072" />
+     <path class="fil3 str2" d="M2263 6118c26,0 48,-21 48,-46 0,-25 -22,-46 -48,-46 -27,0 -49,21 -49,46 0,25 22,46 49,46z"/>
+    </g>
+    <g>
+     <line class="fil2 str1" x1="13" y1="6072" x2="2265" y2= "6072" />
+     <path class="fil3 str2" d="M2263 6118c26,0 48,-21 48,-46 0,-25 -22,-46 -48,-46 -27,0 -49,21 -49,46 0,25 22,46 49,46z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="888,6448 2140,6448 2325,6623 2848,6623 "/>
+     <path class="fil3 str2" d="M2846 6669c26,0 48,-20 48,-46 0,-25 -22,-45 -48,-45 -27,0 -48,20 -48,45 0,26 21,46 48,46z"/>
+    </g>
+    <g>
+     <g>
+      <polyline class="fil2 str1" points="13,6448 437,6448 731,6727 1903,6727 "/>
+      <path class="fil3 str2" d="M1901 6772c26,0 48,-20 48,-45 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,45 48,45z"/>
+     </g>
+     <g>
+      <polyline class="fil2 str1" points="13,6448 437,6448 731,6727 1903,6727 "/>
+      <path class="fil3 str2" d="M1901 6772c26,0 48,-20 48,-45 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,45 48,45z"/>
+     </g>
+     <g>
+      <polyline class="fil2 str1" points="13,6448 437,6448 731,6727 1903,6727 "/>
+      <path class="fil3 str2" d="M1901 6772c26,0 48,-20 48,-45 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,45 48,45z"/>
+     </g>
+    </g>
+    <g>
+     <path class="fil3 str2" style="mask:url(#id128)" d="M1503 8532c24,0 44,19 44,42 0,23 -20,42 -44,42 -25,0 -45,-19 -45,-42 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id130)" d="M125 8248c25,0 45,19 45,43 0,23 -20,42 -45,42 -24,0 -44,-19 -44,-42 0,-24 20,-43 44,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id132)" d="M835 10956c25,0 45,19 45,43 0,23 -20,42 -45,42 -24,0 -44,-19 -44,-42 0,-24 20,-43 44,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id134)" d="M1954 11381c25,0 45,19 45,43 0,23 -20,42 -45,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id136)" d="M697 6289c24,0 44,19 44,42 0,24 -20,43 -44,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id138)" d="M1846 6231c24,0 44,19 44,43 0,23 -20,42 -44,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id140)" d="M1684 5717c24,0 44,19 44,42 0,24 -20,43 -44,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id142)" d="M820 10102c25,0 45,19 45,43 0,23 -20,42 -45,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id144)" d="M237 10940c25,0 45,19 45,43 0,23 -20,42 -45,42 -24,0 -44,-19 -44,-42 0,-24 20,-43 44,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id146)" d="M2349 8357c25,0 45,19 45,42 0,24 -20,43 -45,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id148)" d="M712 8423c25,0 45,19 45,43 0,23 -20,42 -45,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id150)" d="M2279 7289c25,0 45,19 45,43 0,23 -20,42 -45,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id152)" d="M2818 9469c25,0 45,19 45,42 0,24 -20,43 -45,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id154)" d="M3075 10381c25,0 45,19 45,42 0,24 -20,43 -45,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id156)" d="M2329 10521c25,0 45,19 45,42 0,23 -20,42 -45,42 -24,0 -44,-19 -44,-42 0,-23 20,-42 44,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id158)" d="M3043 11216c25,0 45,19 45,42 0,24 -20,43 -45,43 -25,0 -45,-19 -45,-43 0,-23 20,-42 45,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id160)" d="M3154 5771c25,0 45,19 45,42 0,23 -20,42 -45,42 -24,0 -44,-19 -44,-42 0,-23 20,-42 44,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id162)" d="M2555 5930c25,0 45,19 45,43 0,23 -20,42 -45,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id164)" d="M3477 6681c25,0 45,19 45,42 0,23 -20,42 -45,42 -24,0 -44,-19 -44,-42 0,-23 20,-42 44,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id166)" d="M4141 10291c25,0 45,19 45,43 0,23 -20,42 -45,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+    </g>
+    <g>
+     <path class="fil3 str2" style="mask:url(#id168)" d="M247 9965c32,0 59,25 59,56 0,31 -27,56 -59,56 -32,0 -59,-25 -59,-56 0,-31 27,-56 59,-56z"/>
+     <path class="fil3 str2" style="mask:url(#id170)" d="M483 9757c27,0 48,20 48,46 0,25 -21,46 -48,46 -27,0 -49,-21 -49,-46 0,-26 22,-46 49,-46z"/>
+     <path class="fil3 str2" style="mask:url(#id172)" d="M147 8741c25,0 46,20 46,44 0,25 -21,44 -46,44 -26,0 -47,-19 -47,-44 0,-24 21,-44 47,-44z"/>
+     <path class="fil3 str2" style="mask:url(#id174)" d="M104 8179c25,0 46,19 46,43 0,24 -21,44 -46,44 -25,0 -46,-20 -46,-44 0,-24 21,-43 46,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id176)" d="M1142 9733c28,0 51,22 51,49 0,27 -23,48 -51,48 -29,0 -52,-21 -52,-48 0,-27 23,-49 52,-49z"/>
+     <path class="fil3 str2" style="mask:url(#id178)" d="M1257 11214c25,0 45,19 45,43 0,23 -20,42 -45,42 -24,0 -44,-19 -44,-42 0,-24 20,-43 44,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id180)" d="M570 6835c40,0 72,30 72,68 0,37 -32,68 -72,68 -39,0 -71,-31 -71,-68 0,-38 32,-68 71,-68z"/>
+     <path class="fil3 str2" style="mask:url(#id182)" d="M1407 6214c31,0 57,24 57,53 0,30 -26,54 -57,54 -31,0 -57,-24 -57,-54 0,-29 26,-53 57,-53z"/>
+     <path class="fil3 str2" style="mask:url(#id184)" d="M1626 5786c28,0 49,21 49,46 0,26 -21,47 -49,47 -27,0 -48,-21 -48,-47 0,-25 21,-46 48,-46z"/>
+     <path class="fil3 str2" style="mask:url(#id186)" d="M2426 8679c25,0 45,19 45,43 0,23 -20,42 -45,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id188)" d="M2878 10147c25,0 45,19 45,43 0,23 -20,42 -45,42 -24,0 -44,-19 -44,-42 0,-24 20,-43 44,-43z"/>
+     <path class="fil3 str2" style="mask:url(#id190)" d="M2373 11139c25,0 45,19 45,42 0,24 -20,43 -45,43 -24,0 -44,-19 -44,-43 0,-23 20,-42 44,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id192)" d="M3299 5842c25,0 45,19 45,42 0,24 -20,43 -45,43 -24,0 -44,-19 -44,-43 0,-23 20,-42 44,-42z"/>
+     <path class="fil3 str2" style="mask:url(#id194)" d="M3315 8669c25,0 45,19 45,43 0,23 -20,42 -45,42 -25,0 -45,-19 -45,-42 0,-24 20,-43 45,-43z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,9270 427,8878 1846,8878 "/>
+     <path class="fil3 str2" d="M1843 8923c27,0 48,-20 48,-45 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,9270 427,8878 1846,8878 "/>
+     <path class="fil3 str2" d="M1843 8923c27,0 48,-20 48,-45 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,9270 427,8878 1846,8878 "/>
+     <path class="fil3 str2" d="M1843 8923c27,0 48,-20 48,-45 0,-25 -21,-46 -48,-46 -26,0 -48,21 -48,46 0,25 22,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,9073 387,8719 1297,8719 "/>
+     <path class="fil3 str2" d="M1295 8764c26,0 48,-20 48,-45 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,9073 387,8719 1297,8719 "/>
+     <path class="fil3 str2" d="M1295 8764c26,0 48,-20 48,-45 0,-25 -22,-46 -48,-46 -27,0 -48,21 -48,46 0,25 21,45 48,45z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,8636 614,8066 3517,8066 "/>
+     <path class="fil3 str2" d="M3514 8112c27,0 48,-21 48,-46 0,-25 -21,-45 -48,-45 -26,0 -48,20 -48,45 0,25 22,46 48,46z"/>
+    </g>
+   </g>
+   <path class="fil1 str0" d="M1178 16787c64,0 117,-47 117,-105 0,-58 -53,-105 -117,-105 -65,0 -117,47 -117,105 0,58 52,105 117,105z"/>
+   <g>
+    <polyline class="fil2 str1" points="13,14512 135,14512 880,15181 3173,15181 "/>
+    <path class="fil3 str2" d="M3170 15134c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,14512 135,14512 880,15181 3173,15181 "/>
+    <path class="fil3 str2" d="M3170 15134c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,13522 1377,13522 1788,13816 4047,13816 "/>
+    <path class="fil3 str2" d="M4044 13769c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,13522 1377,13522 1788,13816 4047,13816 "/>
+    <path class="fil3 str2" d="M4044 13769c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,13522 1377,13522 1788,13816 4047,13816 "/>
+    <path class="fil3 str2" d="M4044 13769c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="1070,13716 1439,14047 3426,14047 "/>
+    <path class="fil3 str2" d="M3424 14000c28,0 52,21 52,47 0,26 -24,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="13" y1="14985" x2="95" y2= "14985" />
+    <path class="fil3 str2" d="M92 14937c29,0 53,22 53,48 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-48 52,-48z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="13" y1="14985" x2="95" y2= "14985" />
+    <path class="fil3 str2" d="M92 14937c29,0 53,22 53,48 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-48 52,-48z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="13" y1="14985" x2="95" y2= "14985" />
+    <path class="fil3 str2" d="M92 14937c29,0 53,22 53,48 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-48 52,-48z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="13" y1="14985" x2="95" y2= "14985" />
+    <path class="fil3 str2" d="M92 14937c29,0 53,22 53,48 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-48 52,-48z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,16089 145,16089 721,15547 3870,15465 "/>
+    <path class="fil3 str2" d="M3866 15418c29,-1 53,20 54,46 1,26 -22,47 -51,48 -29,1 -53,-20 -54,-46 -1,-26 22,-47 51,-48z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,16089 145,16089 721,15547 3870,15465 "/>
+    <path class="fil3 str2" d="M3866 15418c29,-1 53,20 54,46 1,26 -22,47 -51,48 -29,1 -53,-20 -54,-46 -1,-26 22,-47 51,-48z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,15815 539,15344 1250,15344 "/>
+    <path class="fil3 str2" d="M1248 15297c28,0 52,21 52,47 0,26 -24,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,15815 539,15344 1250,15344 "/>
+    <path class="fil3 str2" d="M1248 15297c28,0 52,21 52,47 0,26 -24,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,15815 539,15344 1250,15344 "/>
+    <path class="fil3 str2" d="M1248 15297c28,0 52,21 52,47 0,26 -24,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,13311 331,13311 958,12748 2633,12748 "/>
+    <path class="fil3 str2" d="M2631 12701c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,13311 331,13311 958,12748 2633,12748 "/>
+    <path class="fil3 str2" d="M2631 12701c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,13311 331,13311 958,12748 2633,12748 "/>
+    <path class="fil3 str2" d="M2631 12701c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,13111 238,13111 1147,12295 3535,12295 "/>
+    <path class="fil3 str2" d="M3533 12248c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,13111 238,13111 1147,12295 3535,12295 "/>
+    <path class="fil3 str2" d="M3533 12248c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="1177" y1="12418" x2="2447" y2= "12418" />
+    <path class="fil3 str2" d="M2445 12371c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="1177" y1="12418" x2="2447" y2= "12418" />
+    <path class="fil3 str2" d="M2445 12371c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="1177" y1="12418" x2="2447" y2= "12418" />
+    <path class="fil3 str2" d="M2445 12371c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="712,13375 1084,13042 3331,13042 "/>
+    <path class="fil3 str2" d="M3328 12995c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="712,13375 1084,13042 3331,13042 "/>
+    <path class="fil3 str2" d="M3328 12995c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="1670,13375 1973,13648 3061,13648 "/>
+    <path class="fil3 str2" d="M3059 13601c28,0 52,21 52,47 0,26 -24,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="2166" y1="13311" x2="4344" y2= "13311" />
+    <path class="fil3 str2" d="M4342 13264c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="2166" y1="13311" x2="4344" y2= "13311" />
+    <path class="fil3 str2" d="M4342 13264c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,16348 637,16348 1219,15827 2782,15827 "/>
+    <path class="fil3 str2" d="M2780 15779c29,0 52,22 52,48 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-48 53,-48z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,16348 637,16348 1219,15827 2782,15827 "/>
+    <path class="fil3 str2" d="M2780 15779c29,0 52,22 52,48 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-48 53,-48z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,16348 637,16348 1219,15827 2782,15827 "/>
+    <path class="fil3 str2" d="M2780 15779c29,0 52,22 52,48 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-48 53,-48z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="1344,16048 3381,16048 3629,15824 4261,15824 "/>
+    <path class="fil3 str2" d="M4258 15777c29,0 53,21 53,47 0,26 -24,48 -53,48 -29,0 -52,-22 -52,-48 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="1344,16048 3381,16048 3629,15824 4261,15824 "/>
+    <path class="fil3 str2" d="M4258 15777c29,0 53,21 53,47 0,26 -24,48 -53,48 -29,0 -52,-22 -52,-48 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="13" y1="12394" x2="276" y2= "12630" />
+    <path class="fil3 str2" d="M311 12595c21,18 21,48 0,67 -20,18 -53,18 -74,0 -20,-19 -20,-49 0,-67 21,-18 54,-18 74,0z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="13" y1="12394" x2="276" y2= "12630" />
+    <path class="fil3 str2" d="M311 12595c21,18 21,48 0,67 -20,18 -53,18 -74,0 -20,-19 -20,-49 0,-67 21,-18 54,-18 74,0z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="13" y1="12394" x2="276" y2= "12630" />
+    <path class="fil3 str2" d="M311 12595c21,18 21,48 0,67 -20,18 -53,18 -74,0 -20,-19 -20,-49 0,-67 21,-18 54,-18 74,0z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="1446" y1="14892" x2="3972" y2= "14892" />
+    <path class="fil3 str2" d="M3970 14845c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="1446" y1="14892" x2="3972" y2= "14892" />
+    <path class="fil3 str2" d="M3970 14845c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <polyline class="fil2 str1" points="13,11926 579,11926 892,11645 2387,11645 "/>
+   <path class="fil3 str2" d="M3657 11598c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   <g>
+    <line class="fil2 str1" x1="926" y1="11926" x2="2931" y2= "11926" />
+    <path class="fil3 str2" d="M2928 11879c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="13" y1="11684" x2="216" y2= "11684" />
+    <path class="fil3 str2" d="M213 11637c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="13" y1="11684" x2="216" y2= "11684" />
+    <path class="fil3 str2" d="M213 11637c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <polyline class="fil2 str1" points="13,11458 536,11458 727,11287 "/>
+   <polyline class="fil2 str1" points="13,11458 536,11458 727,11287 "/>
+   <polyline class="fil2 str1" points="13,11458 536,11458 727,11287 "/>
+   <polyline class="fil2 str1" points="13,11458 536,11458 727,11287 "/>
+   <g>
+    <line class="fil2 str1" x1="13" y1="17300" x2="1903" y2= "17300" />
+    <path class="fil3 str2" d="M1901 17253c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="13" y1="17300" x2="1903" y2= "17300" />
+    <path class="fil3 str2" d="M1901 17253c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="1670,16682 3037,16682 3238,16501 3810,16501 "/>
+    <path class="fil3 str2" d="M3807 16454c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <g>
+     <polyline class="fil2 str1" points="13,16682 1177,16682 1498,16394 2778,16394 "/>
+     <path class="fil3 str2" d="M2775 16347c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,16682 1177,16682 1498,16394 2778,16394 "/>
+     <path class="fil3 str2" d="M2775 16347c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+    </g>
+    <g>
+     <polyline class="fil2 str1" points="13,16682 1177,16682 1498,16394 2778,16394 "/>
+     <path class="fil3 str2" d="M2775 16347c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+    </g>
+   </g>
+   <g>
+    <path class="fil3 str2" style="mask:url(#id196)" d="M647 12373c27,0 49,-20 49,-44 0,-24 -22,-44 -49,-44 -26,0 -48,20 -48,44 0,24 22,44 48,44z"/>
+    <path class="fil3 str2" style="mask:url(#id198)" d="M2340 14531c27,0 49,-19 49,-44 0,-24 -22,-43 -49,-43 -27,0 -48,19 -48,43 0,25 21,44 48,44z"/>
+    <path class="fil3 str2" style="mask:url(#id200)" d="M648 15928c27,0 49,-20 49,-44 0,-24 -22,-44 -49,-44 -27,0 -48,20 -48,44 0,24 21,44 48,44z"/>
+    <path class="fil3 str2" style="mask:url(#id202)" d="M128 16533c27,0 49,-20 49,-44 0,-24 -22,-44 -49,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id204)" d="M200 14039c27,0 49,-19 49,-44 0,-24 -22,-43 -49,-43 -26,0 -48,19 -48,43 0,25 22,44 48,44z"/>
+    <path class="fil3 str2" style="mask:url(#id206)" d="M175 16958c27,0 48,-20 48,-44 0,-24 -21,-43 -48,-43 -27,0 -49,19 -49,43 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id208)" d="M836 14824c27,0 49,-20 49,-44 0,-24 -22,-44 -49,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id210)" d="M1612 12029c27,0 49,-20 49,-44 0,-24 -22,-44 -49,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id212)" d="M2833 11590c27,0 49,-20 49,-44 0,-24 -22,-44 -49,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id214)" d="M1460 16846c27,0 49,-20 49,-44 0,-24 -22,-44 -49,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id216)" d="M2715 16905c27,0 49,-19 49,-43 0,-25 -22,-44 -49,-44 -27,0 -49,19 -49,44 0,24 22,43 49,43z"/>
+    <path class="fil3 str2" style="mask:url(#id218)" d="M2538 17436c27,0 49,-19 49,-44 0,-24 -22,-43 -49,-43 -27,0 -49,19 -49,43 0,25 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id220)" d="M487 17010c27,0 48,-20 48,-44 0,-24 -21,-44 -48,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id222)" d="M107 14151c27,0 49,-20 49,-44 0,-24 -22,-44 -49,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id224)" d="M118 12154c27,0 48,-19 48,-43 0,-25 -21,-44 -48,-44 -27,0 -49,19 -49,44 0,24 22,43 49,43z"/>
+    <path class="fil3 str2" style="mask:url(#id226)" d="M1595 12910c27,0 49,-19 49,-44 0,-24 -22,-44 -49,-44 -27,0 -49,20 -49,44 0,25 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id228)" d="M959 12045c27,0 49,-20 49,-44 0,-24 -22,-44 -49,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id230)" d="M3265 14711c27,0 48,-19 48,-43 0,-25 -21,-44 -48,-44 -27,0 -49,19 -49,44 0,24 22,43 49,43z"/>
+    <path class="fil3 str2" style="mask:url(#id232)" d="M1477 14643c27,0 49,-20 49,-44 0,-24 -22,-44 -49,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id234)" d="M3188 15814c27,0 49,-20 49,-44 0,-24 -22,-44 -49,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id236)" d="M3777 13564c27,0 49,-20 49,-44 0,-24 -22,-44 -49,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id238)" d="M4057 12623c27,0 49,-20 49,-44 0,-24 -22,-44 -49,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id240)" d="M3243 12478c27,0 49,-19 49,-43 0,-25 -22,-44 -49,-44 -27,0 -49,19 -49,44 0,24 22,43 49,43z"/>
+    <path class="fil3 str2" style="mask:url(#id242)" d="M4023 11761c26,0 48,-20 48,-44 0,-24 -22,-44 -48,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id244)" d="M4144 17381c27,0 49,-20 49,-44 0,-24 -22,-44 -49,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id246)" d="M3489 17216c27,0 49,-19 49,-44 0,-24 -22,-43 -49,-43 -26,0 -48,19 -48,43 0,25 22,44 48,44z"/>
+    <path class="fil3 str2" style="mask:url(#id248)" d="M4497 16442c27,0 48,-20 48,-44 0,-24 -21,-44 -48,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id250)" d="M5221 12715c27,0 49,-20 49,-44 0,-24 -22,-44 -49,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+   </g>
+   <g>
+    <path class="fil3 str2" style="mask:url(#id252)" d="M516 12414c41,0 74,-30 74,-67 0,-37 -33,-67 -74,-67 -42,0 -75,30 -75,67 0,37 33,67 75,67z"/>
+    <path class="fil3 str2" style="mask:url(#id254)" d="M130 12910c67,0 121,-48 121,-108 0,-59 -54,-108 -121,-108 -56,0 -104,36 -117,83l0 50c13,48 61,83 117,83z"/>
+    <path class="fil3 str2" style="mask:url(#id256)" d="M484 11593c27,0 49,-20 49,-44 0,-24 -22,-44 -49,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id258)" d="M283 12249c41,0 74,-29 74,-66 0,-36 -33,-66 -74,-66 -41,0 -74,30 -74,66 0,37 33,66 74,66z"/>
+    <path class="fil3 str2" style="mask:url(#id260)" d="M969 13051c36,0 64,-25 64,-57 0,-32 -28,-57 -64,-57 -35,0 -64,25 -64,57 0,32 29,57 64,57z"/>
+    <path class="fil3 str2" style="mask:url(#id262)" d="M1227 13267c29,0 53,-21 53,-48 0,-26 -24,-47 -53,-47 -29,0 -53,21 -53,47 0,27 24,48 53,48z"/>
+    <path class="fil3 str2" style="mask:url(#id264)" d="M234 13501c49,0 88,-36 88,-80 0,-44 -39,-79 -88,-79 -49,0 -89,35 -89,79 0,44 40,80 89,80z"/>
+    <path class="fil3 str2" style="mask:url(#id266)" d="M462 16079c37,0 67,-27 67,-60 0,-33 -30,-59 -67,-59 -36,0 -66,26 -66,59 0,33 30,60 66,60z"/>
+    <path class="fil3 str2" style="mask:url(#id268)" d="M375 16611c39,0 71,-28 71,-63 0,-34 -32,-63 -71,-63 -38,0 -70,29 -70,63 0,35 32,63 70,63z"/>
+    <path class="fil3 str2" style="mask:url(#id270)" d="M416 17001c37,0 67,-26 67,-59 0,-33 -30,-60 -67,-60 -36,0 -66,27 -66,60 0,33 30,59 66,59z"/>
+    <path class="fil3 str2" style="mask:url(#id272)" d="M48 17545c-7,-12 -19,-22 -35,-25l0 25 35 0z"/>
+    <path class="fil3 str2" style="mask:url(#id274)" d="M860 14315c28,0 50,-20 50,-46 0,-25 -22,-45 -50,-45 -28,0 -51,20 -51,45 0,26 23,46 51,46z"/>
+    <path class="fil3 str2" style="mask:url(#id276)" d="M813 14896c28,0 50,-20 50,-45 0,-25 -22,-45 -50,-45 -28,0 -50,20 -50,45 0,25 22,45 50,45z"/>
+    <path class="fil3 str2" style="mask:url(#id278)" d="M1946 13291c31,0 56,-22 56,-50 0,-28 -25,-50 -56,-50 -31,0 -56,22 -56,50 0,28 25,50 56,50z"/>
+    <path class="fil3 str2" style="mask:url(#id280)" d="M2073 11763c27,0 48,-20 48,-44 0,-24 -21,-44 -48,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id282)" d="M1322 16282c43,0 78,-31 78,-70 0,-38 -35,-70 -78,-70 -43,0 -78,32 -78,70 0,39 35,70 78,70z"/>
+    <path class="fil3 str2" style="mask:url(#id284)" d="M2236 16924c34,0 62,-25 62,-56 0,-30 -28,-55 -62,-55 -34,0 -62,25 -62,55 0,31 28,56 62,56z"/>
+    <path class="fil3 str2" style="mask:url(#id286)" d="M2476 17365c29,0 53,-21 53,-48 0,-26 -24,-48 -53,-48 -30,0 -54,22 -54,48 0,27 24,48 54,48z"/>
+    <path class="fil3 str2" style="mask:url(#id288)" d="M3348 14379c27,0 49,-20 49,-44 0,-24 -22,-44 -49,-44 -26,0 -48,20 -48,44 0,24 22,44 48,44z"/>
+    <path class="fil3 str2" style="mask:url(#id290)" d="M3843 12864c27,0 48,-20 48,-44 0,-24 -21,-44 -48,-44 -27,0 -49,20 -49,44 0,24 22,44 49,44z"/>
+    <path class="fil3 str2" style="mask:url(#id292)" d="M3291 11840c27,0 49,-19 49,-43 0,-24 -22,-44 -49,-44 -27,0 -49,20 -49,44 0,24 22,43 49,43z"/>
+    <path class="fil3 str2" style="mask:url(#id294)" d="M4302 17307c27,0 49,-19 49,-43 0,-25 -22,-44 -49,-44 -27,0 -49,19 -49,44 0,24 22,43 49,43z"/>
+    <path class="fil3 str2" style="mask:url(#id296)" d="M4320 14389c27,0 48,-19 48,-44 0,-24 -21,-43 -48,-43 -27,0 -49,19 -49,43 0,25 22,44 49,44z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,13750 693,13750 1165,14174 2715,14174 "/>
+    <path class="fil3 str2" d="M2712 14127c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,13750 693,13750 1165,14174 2715,14174 "/>
+    <path class="fil3 str2" d="M2712 14127c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,13750 693,13750 1165,14174 2715,14174 "/>
+    <path class="fil3 str2" d="M2712 14127c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,13914 650,13914 1122,14338 2116,14338 "/>
+    <path class="fil3 str2" d="M2113 14291c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,13914 650,13914 1122,14338 2116,14338 "/>
+    <path class="fil3 str2" d="M2113 14291c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="13,14338 619,14338 1370,15012 4540,15012 "/>
+    <path class="fil3 str2" d="M4537 14965c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="13" y1="15519" x2="306" y2= "15256" />
+    <path class="fil3 str2" d="M267 15225c20,-19 53,-19 74,0 20,18 20,48 0,66 -21,19 -54,19 -74,0 -21,-18 -21,-48 0,-66z"/>
+   </g>
+   <g>
+    <line class="fil2 str1" x1="13" y1="15519" x2="306" y2= "15256" />
+    <path class="fil3 str2" d="M267 15225c20,-19 53,-19 74,0 20,18 20,48 0,66 -21,19 -54,19 -74,0 -21,-18 -21,-48 0,-66z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="1457,16682 3522,16682 3933,16976 6192,16976 "/>
+    <path class="fil3 str2" d="M6189 16929c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="3218,16861 3587,17193 5574,17193 "/>
+    <path class="fil3 str2" d="M5572 17146c29,0 52,21 52,47 0,26 -23,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="3818,16521 4121,16794 5209,16794 "/>
+    <path class="fil3 str2" d="M5207 16747c28,0 52,21 52,47 0,26 -24,47 -52,47 -29,0 -53,-21 -53,-47 0,-26 24,-47 53,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="1460,16896 2841,16896 3313,17320 4863,17320 "/>
+    <path class="fil3 str2" d="M4860 17273c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="1460,16896 2841,16896 3313,17320 4863,17320 "/>
+    <path class="fil3 str2" d="M4860 17273c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="1460,16896 2841,16896 3313,17320 4863,17320 "/>
+    <path class="fil3 str2" d="M4860 17273c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="1460,17060 2798,17060 3270,17484 4264,17484 "/>
+    <path class="fil3 str2" d="M4261 17437c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <g>
+    <polyline class="fil2 str1" points="1460,17060 2798,17060 3270,17484 4264,17484 "/>
+    <path class="fil3 str2" d="M4261 17437c29,0 53,21 53,47 0,26 -24,47 -53,47 -29,0 -52,-21 -52,-47 0,-26 23,-47 52,-47z"/>
+   </g>
+   <line class="fil4 str2" x1="1460" y1="17060" x2="13" y2= "17060" />
+   <line class="fil4 str2" x1="1460" y1="16896" x2="13" y2= "16896" />
+   <line class="fil4 str2" x1="1457" y1="16682" x2="1156" y2= "16682" />
+   <line class="fil4 str2" x1="3225" y1="16868" x2="3006" y2= "16682" />
+   <line class="fil4 str2" x1="1661" y1="11645" x2="3657" y2= "11645" />
+  </g>
+ </g>
+</svg>

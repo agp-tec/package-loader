@@ -5,7 +5,11 @@
 
     RewriteEngine On
 
-    RewriteBase /modelo-laravel
+    #RewriteBase /adm
+
+    # Rewrite non www to www
+    # RewriteCond %{HTTP_HOST} !^www\. [NC]
+    # RewriteRule ^(.*)$ %{REQUEST_SCHEME}://www.%{HTTP_HOST}/$1 [R=301,L]
 
     # Handle Authorization Header
     RewriteCond %{HTTP:Authorization} .
@@ -20,12 +24,4 @@
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^ index.php [L]
-
-    # BEGIN Cache-Control-Headers
-    <ifmodule mod_headers.c>
-      <filesmatch "(gif|ico|jpeg|jpe|jpg|svg|png|css|js)$">
-        Header set Cache-Control "max-age=604800, public"
-      </filesmatch>
-    </ifmodule>
-    # END Cache-Control-Headers
 </IfModule>

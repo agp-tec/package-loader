@@ -29,7 +29,7 @@ Route::group(['as' => 'web.', 'middleware' => 'auth:web', "prefix" => "{contaId}
     Route::post('/pessoa/find', 'PessoaController@doFind')->name('pessoa.findForm');
 
     // Rotas para cidade
-    Route::get('/cidade/find', 'CidadeController@find')->name('cidade.find');
+    //Route::get('/cidade/find', 'CidadeController@find')->name('cidade.find');
 
     // Rotas para pessoa telefone
     Route::resource('pessoa/{pessoa}/pessoa-telefone', 'PessoaTelefoneController')->except('show');
@@ -52,5 +52,10 @@ Route::group(['as' => 'web.', 'middleware' => 'auth:web', "prefix" => "{contaId}
     Route::resource('webhook', 'WebhookController');
     Route::get('webhook/{webhook}/teste', 'WebhookController@teste')->name('webhook.teste');
     Route::get('webhook-data', 'WebhookController@datatable')->name('webhook.datatable');
+
+    //Rotas para Google Authenticator
+    Route::resource('google-authenticator', 'GoogleAuthenticatorController');
+    Route::post('/google-authenticator/verify', 'GoogleAuthenticatorController@verify')->name('google-authenticator.verify');
+
 });
 

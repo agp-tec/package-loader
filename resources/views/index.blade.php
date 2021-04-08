@@ -8,11 +8,11 @@
             <div class="row">
                 <div class="col-sm-6 order-first">
                     <div class="card card-custom card-stretch gutter-b">
-                        <a href="#">
+                        <a href="{{ route('web.google-authenticator.index') }}">
                             <div class="card-body bg-hover-light rounded">
-                                {{Metronic::getSVG("media/svg/icons/Code/Plus.svg", "svg-icon svg-icon-3x svg-icon-primary")}}
-                                <div class="text-dark-75 font-weight-bolder font-size-lg mt-3">Novo Link</div>
-                                <span class="font-weight-bold text-muted font-size-sm">de pagamento</span>
+                                <i class="socicon-google icon-2x text-primary"></i>
+                                <div class="text-dark-75 font-weight-bolder font-size-lg mt-3">Google</div>
+                                <span class="font-weight-bold text-muted font-size-sm">Authentication</span>
                             </div>
                         </a>
                     </div>

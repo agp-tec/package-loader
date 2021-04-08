@@ -10,10 +10,11 @@
     "require": {
         "php": "^7.2",
         "ext-json": "*",
-        "agp/login": "^1.0",
         "agp/base-utils": "^1.0",
+        "agp/login": "^1.0",
         "agp/notification": "^1.0",
         "agp/report": "^1.0",
+        "chillerlan/php-qrcode": "^4.3",
         "fideloper/proxy": "^4.2",
         "fruitcake/laravel-cors": "^1.0",
         "geekcom/validator-docs": "^3.4",
@@ -22,6 +23,7 @@
         "kris/laravel-form-builder": "^1.30",
         "laravel/framework": "^7.0",
         "laravel/tinker": "^2.0",
+        "pragmarx/google2fa": "^8.0",
         "tymon/jwt-auth": "^1.0"
     },
     "require-dev": {
@@ -50,10 +52,14 @@
         ],
         "files": [
             "app/Helper/functions.php"
-        ]
+        ],
+        "psr-0": {
+            "Agp\\TwoFactor\\": "packages/agp/twofactor/src/Agp/TwoFactor/"
+        }
     },
     "autoload-dev": {
         "psr-4": {
+            "Agp\\TwoFactor\\": "packages/agp/twofactor/src/Agp/TwoFactor/",
             "Tests\\": "tests/"
         }
     },

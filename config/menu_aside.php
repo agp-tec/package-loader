@@ -14,7 +14,7 @@ return [
             'new-tab' => false,
         ],
 
-        // Cadastros
+        // Principais
         [
             'section' => 'Principais',
         ],
@@ -25,6 +25,14 @@ return [
             'bullet' => 'dot',
             'route' => true,
             'page' => 'web.pessoa.index',
+        ],
+        [
+            'title' => 'Google Authentication',
+            'desc' => 'Algumas ações da integração com o Google Authenticator',
+            'icon' => 'socicon-google', // or can be 'flaticon-light' or any flaticon-*
+            'bullet' => 'dot',
+            'route' => true,
+            'page' => 'web.google-authenticator.index',
         ],
 
         [

@@ -34,4 +34,5 @@ package-lock.json
 /public/img/
 /public/css/
 /public/plugins/
+/public/mix-manifest.json
 /packages/

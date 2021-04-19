@@ -54,12 +54,12 @@
             "app/Helper/functions.php"
         ],
         "psr-0": {
-            "Agp\\TwoFactor\\": "packages/agp/twofactor/src/Agp/TwoFactor/"
+            "Agp\\TwoFactor\\": "packages/agp/package-twofactor/src/Agp/TwoFactor/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Agp\\TwoFactor\\": "packages/agp/twofactor/src/Agp/TwoFactor/",
+            "Agp\\TwoFactor\\": "packages/agp/package-twofactor/src/Agp/TwoFactor/",
             "Tests\\": "tests/"
         }
     },
